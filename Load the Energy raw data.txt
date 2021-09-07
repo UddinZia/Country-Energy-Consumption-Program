@@ -1,0 +1,2289 @@
+Nation,Consumptions,Type,Year
+Belgium,59.11,Electricity,1990
+Belgium,9.65,Natural Gas,1990
+Czech Rep.,53.04,Electricity,1990
+Czech Rep.,6.58,Natural Gas,1990
+France,323.25,Electricity,1990
+France,28.17,Natural Gas,1990
+Germany,481,Electricity,1990
+Germany,69.64,Natural Gas,1990
+Italy,218.78,Electricity,1990
+Italy,47.4,Natural Gas,1990
+Netherlands,75.51,Electricity,1990
+Netherlands,43.02,Natural Gas,1990
+Poland,109.2,Electricity,1990
+Poland,11.67,Natural Gas,1990
+Portugal,23.95,Electricity,1990
+Portugal,0,Natural Gas,1990
+Romania,60.22,Electricity,1990
+Romania,35.67,Natural Gas,1990
+Spain,129.16,Electricity,1990
+Spain,5.74,Natural Gas,1990
+Sweden,130.74,Electricity,1990
+Sweden,0.62,Natural Gas,1990
+United Kingdom,284.42,Electricity,1990
+United Kingdom,57.09,Natural Gas,1990
+Norway,97.7,Electricity,1990
+Norway,2.26,Natural Gas,1990
+Turkey,46.82,Electricity,1990
+Turkey,3.47,Natural Gas,1990
+Kazakhstan,96.54,Electricity,1990
+Kazakhstan,13.18,Natural Gas,1990
+Russia,917.41,Electricity,1990
+Russia,471.55,Natural Gas,1990
+Ukraine,229.74,Electricity,1990
+Ukraine,113.34,Natural Gas,1990
+Uzbekistan,45.62,Electricity,1990
+Uzbekistan,40.09,Natural Gas,1990
+Canada,432.99,Electricity,1990
+Canada,67.32,Natural Gas,1990
+United States,2712.56,Electricity,1990
+United States,534.53,Natural Gas,1990
+Argentina,40.36,Electricity,1990
+Argentina,22.5,Natural Gas,1990
+Brazil,215.8,Electricity,1990
+Brazil,3.87,Natural Gas,1990
+Chile,15.81,Electricity,1990
+Chile,1.36,Natural Gas,1990
+Colombia,26.87,Electricity,1990
+Colombia,4.33,Natural Gas,1990
+Mexico,100.19,Electricity,1990
+Mexico,25.74,Natural Gas,1990
+Venezuela,47.15,Electricity,1990
+Venezuela,16.77,Natural Gas,1990
+China,534.27,Electricity,1990
+China,15.87,Natural Gas,1990
+India,215.03,Electricity,1990
+India,12.77,Natural Gas,1990
+Indonesia,28.29,Electricity,1990
+Indonesia,16.91,Natural Gas,1990
+Japan,780.63,Electricity,1990
+Japan,58.57,Natural Gas,1990
+Malaysia,19.95,Electricity,1990
+Malaysia,8.18,Natural Gas,1990
+South Korea,94.38,Electricity,1990
+South Korea,3.04,Natural Gas,1990
+Taiwan,78.81,Electricity,1990
+Taiwan,1.72,Natural Gas,1990
+Thailand,38.34,Electricity,1990
+Thailand,6.39,Natural Gas,1990
+Australia,134.34,Electricity,1990
+Australia,17.68,Natural Gas,1990
+New Zealand,28.52,Electricity,1990
+New Zealand,4.89,Natural Gas,1990
+Algeria,13.69,Electricity,1990
+Algeria,14.3,Natural Gas,1990
+Egypt,36.2,Electricity,1990
+Egypt,8.24,Natural Gas,1990
+Nigeria,7.87,Electricity,1990
+Nigeria,4,Natural Gas,1990
+South Africa,140.71,Electricity,1990
+South Africa,1.84,Natural Gas,1990
+Iran,50.12,Electricity,1990
+Iran,20.67,Natural Gas,1990
+Kuwait,14.27,Electricity,1990
+Kuwait,6.03,Natural Gas,1990
+Saudi Arabia,63.63,Electricity,1990
+Saudi Arabia,23.86,Natural Gas,1990
+United Arab Emirates,14.35,Electricity,1990
+United Arab Emirates,16.91,Natural Gas,1990
+Belgium,61.78,Electricity,1991
+Belgium,10.29,Natural Gas,1991
+Czech Rep.,49.71,Electricity,1991
+Czech Rep.,6.34,Natural Gas,1991
+France,346.8,Electricity,1991
+France,31.69,Natural Gas,1991
+Germany,481.06,Electricity,1991
+Germany,73.42,Natural Gas,1991
+Italy,223.69,Electricity,1991
+Italy,50.22,Natural Gas,1991
+Netherlands,77.65,Electricity,1991
+Netherlands,48.11,Natural Gas,1991
+Poland,102.83,Electricity,1991
+Poland,10.74,Natural Gas,1991
+Portugal,25.26,Electricity,1991
+Portugal,0,Natural Gas,1991
+Romania,50.88,Electricity,1991
+Romania,29.43,Natural Gas,1991
+Spain,132.08,Electricity,1991
+Spain,6.44,Natural Gas,1991
+Sweden,132.34,Electricity,1991
+Sweden,0.64,Natural Gas,1991
+United Kingdom,290.84,Electricity,1991
+United Kingdom,62.8,Natural Gas,1991
+Norway,99.9,Electricity,1991
+Norway,2.22,Natural Gas,1991
+Turkey,49.28,Electricity,1991
+Turkey,4.24,Natural Gas,1991
+Kazakhstan,92.81,Electricity,1991
+Kazakhstan,12.55,Natural Gas,1991
+Russia,898.51,Electricity,1991
+Russia,486.02,Natural Gas,1991
+Ukraine,223.89,Electricity,1991
+Ukraine,115.05,Natural Gas,1991
+Uzbekistan,45.58,Electricity,1991
+Uzbekistan,41.17,Natural Gas,1991
+Canada,437.95,Electricity,1991
+Canada,67.69,Natural Gas,1991
+United States,2854.26,Electricity,1991
+United States,536.24,Natural Gas,1991
+Argentina,42.28,Electricity,1991
+Argentina,23.95,Natural Gas,1991
+Brazil,222.81,Electricity,1991
+Brazil,3.89,Natural Gas,1991
+Chile,17.27,Electricity,1991
+Chile,1.14,Natural Gas,1991
+Colombia,27.67,Electricity,1991
+Colombia,4.46,Natural Gas,1991
+Mexico,102.53,Electricity,1991
+Mexico,27.42,Natural Gas,1991
+Venezuela,50.45,Electricity,1991
+Venezuela,17.6,Natural Gas,1991
+China,581.21,Electricity,1991
+China,15.89,Natural Gas,1991
+India,235.62,Electricity,1991
+India,14.44,Natural Gas,1991
+Indonesia,31.48,Electricity,1991
+Indonesia,18.84,Natural Gas,1991
+Japan,805.21,Electricity,1991
+Japan,62.55,Natural Gas,1991
+Malaysia,22.39,Electricity,1991
+Malaysia,11.62,Natural Gas,1991
+South Korea,104.37,Electricity,1991
+South Korea,3.52,Natural Gas,1991
+Taiwan,87.08,Electricity,1991
+Taiwan,2.76,Natural Gas,1991
+Thailand,43.4,Electricity,1991
+Thailand,7.9,Natural Gas,1991
+Australia,136.95,Electricity,1991
+Australia,16.55,Natural Gas,1991
+New Zealand,29.1,Electricity,1991
+New Zealand,5.38,Natural Gas,1991
+Algeria,14.06,Electricity,1991
+Algeria,15.31,Natural Gas,1991
+Egypt,37.98,Electricity,1991
+Egypt,9.08,Natural Gas,1991
+Nigeria,8.29,Electricity,1991
+Nigeria,4.88,Natural Gas,1991
+South Africa,140.17,Electricity,1991
+South Africa,1.87,Natural Gas,1991
+Iran,54.4,Electricity,1991
+Iran,25.63,Natural Gas,1991
+Kuwait,8.12,Electricity,1991
+Kuwait,0.83,Natural Gas,1991
+Saudi Arabia,67.44,Electricity,1991
+Saudi Arabia,24.36,Natural Gas,1991
+United Arab Emirates,14.58,Electricity,1991
+United Arab Emirates,20.36,Natural Gas,1991
+Belgium,63.87,Electricity,1992
+Belgium,10.6,Natural Gas,1992
+Czech Rep.,48.15,Electricity,1992
+Czech Rep.,7.26,Natural Gas,1992
+France,355.87,Electricity,1992
+France,31.93,Natural Gas,1992
+Germany,475.88,Electricity,1992
+Germany,72.46,Natural Gas,1992
+Italy,228.07,Electricity,1992
+Italy,49.76,Natural Gas,1992
+Netherlands,79.93,Electricity,1992
+Netherlands,46.63,Natural Gas,1992
+Poland,98.44,Electricity,1992
+Poland,10.35,Natural Gas,1992
+Portugal,26.04,Electricity,1992
+Portugal,0,Natural Gas,1992
+Romania,46.74,Electricity,1992
+Romania,26.48,Natural Gas,1992
+Spain,134.25,Electricity,1992
+Spain,6.8,Natural Gas,1992
+Sweden,130.05,Electricity,1992
+Sweden,0.72,Natural Gas,1992
+United Kingdom,291.45,Electricity,1992
+United Kingdom,62.03,Natural Gas,1992
+Norway,100.44,Electricity,1992
+Norway,3.7,Natural Gas,1992
+Turkey,53.99,Electricity,1992
+Turkey,4.63,Natural Gas,1992
+Kazakhstan,88.02,Electricity,1992
+Kazakhstan,18.42,Natural Gas,1992
+Russia,838.32,Electricity,1992
+Russia,462.39,Natural Gas,1992
+Ukraine,207.96,Electricity,1992
+Ukraine,106.29,Natural Gas,1992
+Uzbekistan,42.7,Electricity,1992
+Uzbekistan,41.44,Natural Gas,1992
+Canada,442.49,Electricity,1992
+Canada,70.83,Natural Gas,1992
+United States,2865.56,Electricity,1992
+United States,550.68,Natural Gas,1992
+Argentina,45.04,Electricity,1992
+Argentina,24.68,Natural Gas,1992
+Brazil,227.97,Electricity,1992
+Brazil,4.15,Natural Gas,1992
+Chile,19.61,Electricity,1992
+Chile,1.36,Natural Gas,1992
+Colombia,29.01,Electricity,1992
+Colombia,4.39,Natural Gas,1992
+Mexico,106.12,Electricity,1992
+Mexico,27.81,Natural Gas,1992
+Venezuela,54.05,Electricity,1992
+Venezuela,17.79,Natural Gas,1992
+China,644.98,Electricity,1992
+China,15.88,Natural Gas,1992
+India,251.83,Electricity,1992
+India,16.12,Natural Gas,1992
+Indonesia,34.96,Electricity,1992
+Indonesia,20.18,Natural Gas,1992
+Japan,812.28,Electricity,1992
+Japan,63.2,Natural Gas,1992
+Malaysia,25.8,Electricity,1992
+Malaysia,12.6,Natural Gas,1992
+South Korea,115.25,Electricity,1992
+South Korea,4.6,Natural Gas,1992
+Taiwan,93.03,Electricity,1992
+Taiwan,2.9,Natural Gas,1992
+Thailand,49.31,Electricity,1992
+Thailand,8.47,Natural Gas,1992
+Australia,138.57,Electricity,1992
+Australia,17.11,Natural Gas,1992
+New Zealand,28.71,Electricity,1992
+New Zealand,5.53,Natural Gas,1992
+Algeria,15.13,Electricity,1992
+Algeria,15.73,Natural Gas,1992
+Egypt,39.01,Electricity,1992
+Egypt,9.78,Natural Gas,1992
+Nigeria,8.7,Electricity,1992
+Nigeria,5.13,Natural Gas,1992
+South Africa,140.69,Electricity,1992
+South Africa,1.88,Natural Gas,1992
+Iran,59.2,Electricity,1992
+Iran,27.19,Natural Gas,1992
+Kuwait,13.2,Electricity,1992
+Kuwait,4.91,Natural Gas,1992
+Saudi Arabia,74.11,Electricity,1992
+Saudi Arabia,27,Natural Gas,1992
+United Arab Emirates,15.7,Electricity,1992
+United Arab Emirates,18.75,Natural Gas,1992
+Belgium,64.64,Electricity,1993
+Belgium,11.1,Natural Gas,1993
+Czech Rep.,47.77,Electricity,1993
+Czech Rep.,7.3,Natural Gas,1993
+France,356.19,Electricity,1993
+France,32.31,Natural Gas,1993
+Germany,467.16,Electricity,1993
+Germany,74.88,Natural Gas,1993
+Italy,228.96,Electricity,1993
+Italy,51.07,Natural Gas,1993
+Netherlands,81.03,Electricity,1993
+Netherlands,47.87,Natural Gas,1993
+Poland,99.34,Electricity,1993
+Poland,10.67,Natural Gas,1993
+Portugal,26.38,Electricity,1993
+Portugal,0,Natural Gas,1993
+Romania,42.69,Electricity,1993
+Romania,24.95,Natural Gas,1993
+Spain,134.1,Electricity,1993
+Spain,6.7,Natural Gas,1993
+Sweden,130.6,Electricity,1993
+Sweden,0.8,Natural Gas,1993
+United Kingdom,295.75,Electricity,1993
+United Kingdom,68.58,Natural Gas,1993
+Norway,101.93,Electricity,1993
+Norway,4.2,Natural Gas,1993
+Turkey,59.24,Electricity,1993
+Turkey,5.15,Natural Gas,1993
+Kazakhstan,74.17,Electricity,1993
+Kazakhstan,13.01,Natural Gas,1993
+Russia,781.57,Electricity,1993
+Russia,447.99,Natural Gas,1993
+Ukraine,190.19,Electricity,1993
+Ukraine,99.25,Natural Gas,1993
+Uzbekistan,41.58,Electricity,1993
+Uzbekistan,43.97,Natural Gas,1993
+Canada,451.77,Electricity,1993
+Canada,74.48,Natural Gas,1993
+United States,2963.14,Electricity,1993
+United States,574.73,Natural Gas,1993
+Argentina,48.45,Electricity,1993
+Argentina,24.21,Natural Gas,1993
+Brazil,238.64,Electricity,1993
+Brazil,4.51,Natural Gas,1993
+Chile,20.65,Electricity,1993
+Chile,1.27,Natural Gas,1993
+Colombia,31.68,Electricity,1993
+Colombia,4.56,Natural Gas,1993
+Mexico,109.88,Electricity,1993
+Mexico,27.71,Natural Gas,1993
+Venezuela,55.51,Electricity,1993
+Venezuela,18.63,Natural Gas,1993
+China,715.63,Electricity,1993
+China,16.77,Natural Gas,1993
+India,270.56,Electricity,1993
+India,16.34,Natural Gas,1993
+Indonesia,38.96,Electricity,1993
+Indonesia,21.38,Natural Gas,1993
+Japan,818.27,Electricity,1993
+Japan,64.7,Natural Gas,1993
+Malaysia,28.49,Electricity,1993
+Malaysia,12.1,Natural Gas,1993
+South Korea,127.73,Electricity,1993
+South Korea,5.75,Natural Gas,1993
+Taiwan,101.39,Electricity,1993
+Taiwan,2.82,Natural Gas,1993
+Thailand,56.28,Electricity,1993
+Thailand,9.5,Natural Gas,1993
+Australia,142.69,Electricity,1993
+Australia,17.87,Natural Gas,1993
+New Zealand,29.74,Electricity,1993
+New Zealand,5.36,Natural Gas,1993
+Algeria,15.14,Electricity,1993
+Algeria,16.6,Natural Gas,1993
+Egypt,40.76,Electricity,1993
+Egypt,11.54,Natural Gas,1993
+Nigeria,10,Electricity,1993
+Nigeria,5.6,Natural Gas,1993
+South Africa,146.08,Electricity,1993
+South Africa,2.1,Natural Gas,1993
+Iran,63.1,Electricity,1993
+Iran,31.42,Natural Gas,1993
+Kuwait,16.07,Electricity,1993
+Kuwait,8.7,Natural Gas,1993
+Saudi Arabia,82.2,Electricity,1993
+Saudi Arabia,28.09,Natural Gas,1993
+United Arab Emirates,18.25,Electricity,1993
+United Arab Emirates,19.64,Natural Gas,1993
+Belgium,67.82,Electricity,1994
+Belgium,11.35,Natural Gas,1994
+Czech Rep.,49.31,Electricity,1994
+Czech Rep.,7.15,Natural Gas,1994
+France,363.24,Electricity,1994
+France,32.24,Natural Gas,1994
+Germany,465.07,Electricity,1994
+Germany,77.97,Natural Gas,1994
+Italy,236.56,Electricity,1994
+Italy,49.49,Natural Gas,1994
+Netherlands,83.68,Electricity,1994
+Netherlands,46.6,Natural Gas,1994
+Poland,100,Electricity,1994
+Poland,11.39,Natural Gas,1994
+Portugal,27.43,Electricity,1994
+Portugal,0,Natural Gas,1994
+Romania,40.95,Electricity,1994
+Romania,23.99,Natural Gas,1994
+Spain,140,Electricity,1994
+Spain,7.15,Natural Gas,1994
+Sweden,129.61,Electricity,1994
+Sweden,0.81,Natural Gas,1994
+United Kingdom,291.78,Electricity,1994
+United Kingdom,71.24,Natural Gas,1994
+Norway,102.92,Electricity,1994
+Norway,4.41,Natural Gas,1994
+Turkey,61.4,Electricity,1994
+Turkey,5.49,Natural Gas,1994
+Kazakhstan,61.4,Electricity,1994
+Kazakhstan,10.02,Natural Gas,1994
+Russia,706.81,Electricity,1994
+Russia,414.39,Natural Gas,1994
+Ukraine,165.81,Electricity,1994
+Ukraine,88.26,Natural Gas,1994
+Uzbekistan,40.43,Electricity,1994
+Uzbekistan,44.6,Natural Gas,1994
+Canada,457.85,Electricity,1994
+Canada,77.48,Natural Gas,1994
+United States,3047.32,Electricity,1994
+United States,586.19,Natural Gas,1994
+Argentina,52.32,Electricity,1994
+Argentina,25.23,Natural Gas,1994
+Brazil,247.67,Electricity,1994
+Brazil,4.56,Natural Gas,1994
+Chile,21.96,Electricity,1994
+Chile,1.37,Natural Gas,1994
+Colombia,33.37,Electricity,1994
+Colombia,4.51,Natural Gas,1994
+Mexico,118.46,Electricity,1994
+Mexico,28.82,Natural Gas,1994
+Venezuela,55.93,Electricity,1994
+Venezuela,19.47,Natural Gas,1994
+China,797.8,Electricity,1994
+China,17.53,Natural Gas,1994
+India,294.76,Electricity,1994
+India,17.34,Natural Gas,1994
+Indonesia,44.67,Electricity,1994
+Indonesia,26.36,Natural Gas,1994
+Japan,873.16,Electricity,1994
+Japan,67.62,Natural Gas,1994
+Malaysia,34.1,Electricity,1994
+Malaysia,14.77,Natural Gas,1994
+South Korea,146.54,Electricity,1994
+South Korea,7.65,Natural Gas,1994
+Taiwan,108.65,Electricity,1994
+Taiwan,3.69,Natural Gas,1994
+Thailand,62.51,Electricity,1994
+Thailand,10.58,Natural Gas,1994
+Australia,146.5,Electricity,1994
+Australia,18.76,Natural Gas,1994
+New Zealand,30.52,Electricity,1994
+New Zealand,5.03,Natural Gas,1994
+Algeria,15.55,Electricity,1994
+Algeria,16.12,Natural Gas,1994
+Egypt,42.56,Electricity,1994
+Egypt,11.98,Natural Gas,1994
+Nigeria,9.6,Electricity,1994
+Nigeria,5.49,Natural Gas,1994
+South Africa,151.6,Electricity,1994
+South Africa,2.1,Natural Gas,1994
+Iran,66.52,Electricity,1994
+Iran,37.99,Natural Gas,1994
+Kuwait,17.6,Electricity,1994
+Kuwait,9.28,Natural Gas,1994
+Saudi Arabia,85.91,Electricity,1994
+Saudi Arabia,30.45,Natural Gas,1994
+United Arab Emirates,19.94,Electricity,1994
+United Arab Emirates,22.71,Natural Gas,1994
+Belgium,69.83,Electricity,1995
+Belgium,12.55,Natural Gas,1995
+Czech Rep.,52.16,Electricity,1995
+Czech Rep.,8.07,Natural Gas,1995
+France,367.89,Electricity,1995
+France,32.98,Natural Gas,1995
+Germany,472.58,Electricity,1995
+Germany,83.03,Natural Gas,1995
+Italy,243.47,Electricity,1995
+Italy,54.37,Natural Gas,1995
+Netherlands,84.1,Electricity,1995
+Netherlands,48.97,Natural Gas,1995
+Poland,103.81,Electricity,1995
+Poland,11.65,Natural Gas,1995
+Portugal,29.29,Electricity,1995
+Portugal,0,Natural Gas,1995
+Romania,43.11,Electricity,1995
+Romania,23.96,Natural Gas,1995
+Spain,145.54,Electricity,1995
+Spain,8.92,Natural Gas,1995
+Sweden,132.39,Electricity,1995
+Sweden,0.8,Natural Gas,1995
+United Kingdom,303.81,Electricity,1995
+United Kingdom,75.18,Natural Gas,1995
+Norway,104.97,Electricity,1995
+Norway,3.85,Natural Gas,1995
+Turkey,67.39,Electricity,1995
+Turkey,7.03,Natural Gas,1995
+Kazakhstan,54.85,Electricity,1995
+Kazakhstan,12.48,Natural Gas,1995
+Russia,696.99,Electricity,1995
+Russia,393.24,Natural Gas,1995
+Ukraine,157.84,Electricity,1995
+Ukraine,81.65,Natural Gas,1995
+Uzbekistan,39.21,Electricity,1995
+Uzbekistan,42,Natural Gas,1995
+Canada,466.98,Electricity,1995
+Canada,81.43,Natural Gas,1995
+United States,3135.81,Electricity,1995
+United States,609.75,Natural Gas,1995
+Argentina,55.39,Electricity,1995
+Argentina,27.92,Natural Gas,1995
+Brazil,262.36,Electricity,1995
+Brazil,4.85,Natural Gas,1995
+Chile,24.48,Electricity,1995
+Chile,1.36,Natural Gas,1995
+Colombia,34.85,Electricity,1995
+Colombia,4.79,Natural Gas,1995
+Mexico,122.67,Electricity,1995
+Mexico,28.45,Natural Gas,1995
+Venezuela,57.45,Electricity,1995
+Venezuela,21.13,Natural Gas,1995
+China,848.44,Electricity,1995
+China,17.8,Natural Gas,1995
+India,315.2,Electricity,1995
+India,20.93,Natural Gas,1995
+Indonesia,49.75,Electricity,1995
+Indonesia,28.98,Natural Gas,1995
+Japan,890.07,Electricity,1995
+Japan,70.11,Natural Gas,1995
+Malaysia,39.25,Electricity,1995
+Malaysia,14.48,Natural Gas,1995
+South Korea,163.27,Electricity,1995
+South Korea,9.26,Natural Gas,1995
+Taiwan,115.84,Electricity,1995
+Taiwan,3.96,Natural Gas,1995
+Thailand,71.23,Electricity,1995
+Thailand,11.14,Natural Gas,1995
+Australia,151.12,Electricity,1995
+Australia,20.14,Natural Gas,1995
+New Zealand,31.14,Electricity,1995
+New Zealand,4.73,Natural Gas,1995
+Algeria,16.1,Electricity,1995
+Algeria,16.79,Natural Gas,1995
+Egypt,44.56,Electricity,1995
+Egypt,12.59,Natural Gas,1995
+Nigeria,9.44,Electricity,1995
+Nigeria,5.38,Natural Gas,1995
+South Africa,157.04,Electricity,1995
+South Africa,2.1,Natural Gas,1995
+Iran,68.84,Electricity,1995
+Iran,42.21,Natural Gas,1995
+Kuwait,17.66,Electricity,1995
+Kuwait,9.28,Natural Gas,1995
+Saudi Arabia,89.64,Electricity,1995
+Saudi Arabia,30.33,Natural Gas,1995
+United Arab Emirates,21.49,Electricity,1995
+United Arab Emirates,24.79,Natural Gas,1995
+Belgium,71.41,Electricity,1996
+Belgium,13.95,Natural Gas,1996
+Czech Rep.,54.15,Electricity,1996
+Czech Rep.,9.29,Natural Gas,1996
+France,384.18,Electricity,1996
+France,36.69,Natural Gas,1996
+Germany,479.66,Electricity,1996
+Germany,92.34,Natural Gas,1996
+Italy,245.95,Electricity,1996
+Italy,56.19,Natural Gas,1996
+Netherlands,87.63,Electricity,1996
+Netherlands,54.27,Natural Gas,1996
+Poland,107.29,Electricity,1996
+Poland,12.73,Natural Gas,1996
+Portugal,30.69,Electricity,1996
+Portugal,0,Natural Gas,1996
+Romania,46.15,Electricity,1996
+Romania,24.18,Natural Gas,1996
+Spain,151.52,Electricity,1996
+Spain,9.98,Natural Gas,1996
+Sweden,132.3,Electricity,1996
+Sweden,0.82,Natural Gas,1996
+United Kingdom,319.78,Electricity,1996
+United Kingdom,87.59,Natural Gas,1996
+Norway,104.14,Electricity,1996
+Norway,3.37,Natural Gas,1996
+Turkey,74.16,Electricity,1996
+Turkey,8.21,Natural Gas,1996
+Kazakhstan,48.63,Electricity,1996
+Kazakhstan,9.68,Natural Gas,1996
+Russia,681.01,Electricity,1996
+Russia,389.08,Natural Gas,1996
+Ukraine,141.94,Electricity,1996
+Ukraine,88.81,Natural Gas,1996
+Uzbekistan,39.79,Electricity,1996
+Uzbekistan,43.6,Natural Gas,1996
+Canada,474.5,Electricity,1996
+Canada,85.25,Natural Gas,1996
+United States,3221.31,Electricity,1996
+United States,622.06,Natural Gas,1996
+Argentina,58.72,Electricity,1996
+Argentina,30.82,Natural Gas,1996
+Brazil,274.89,Electricity,1996
+Brazil,5.54,Natural Gas,1996
+Chile,27.24,Electricity,1996
+Chile,1.4,Natural Gas,1996
+Colombia,36.21,Electricity,1996
+Colombia,5.21,Natural Gas,1996
+Mexico,111.29,Electricity,1996
+Mexico,29.92,Natural Gas,1996
+Venezuela,58.68,Electricity,1996
+Venezuela,24.42,Natural Gas,1996
+China,915.94,Electricity,1996
+China,18.51,Natural Gas,1996
+India,321.27,Electricity,1996
+India,21.32,Natural Gas,1996
+Indonesia,56.93,Electricity,1996
+Indonesia,30.21,Natural Gas,1996
+Japan,911.21,Electricity,1996
+Japan,73.11,Natural Gas,1996
+Malaysia,43.93,Electricity,1996
+Malaysia,16.52,Natural Gas,1996
+South Korea,182.47,Electricity,1996
+South Korea,12.23,Natural Gas,1996
+Taiwan,123.15,Electricity,1996
+Taiwan,4.12,Natural Gas,1996
+Thailand,77.35,Electricity,1996
+Thailand,13.08,Natural Gas,1996
+Australia,155.15,Electricity,1996
+Australia,20.43,Natural Gas,1996
+New Zealand,32.16,Electricity,1996
+New Zealand,5.52,Natural Gas,1996
+Algeria,16.7,Electricity,1996
+Algeria,16.72,Natural Gas,1996
+Egypt,49.14,Electricity,1996
+Egypt,13.03,Natural Gas,1996
+Nigeria,9.05,Electricity,1996
+Nigeria,5.46,Natural Gas,1996
+South Africa,183.18,Electricity,1996
+South Africa,1.89,Natural Gas,1996
+Iran,75.08,Electricity,1996
+Iran,41.93,Natural Gas,1996
+Kuwait,18.93,Electricity,1996
+Kuwait,9.3,Natural Gas,1996
+Saudi Arabia,92.23,Electricity,1996
+Saudi Arabia,31.47,Natural Gas,1996
+United Arab Emirates,22.85,Electricity,1996
+United Arab Emirates,27.15,Natural Gas,1996
+Belgium,73.32,Electricity,1997
+Belgium,13.31,Natural Gas,1997
+Czech Rep.,53.16,Electricity,1997
+Czech Rep.,9.42,Natural Gas,1997
+France,381.62,Electricity,1997
+France,36.27,Natural Gas,1997
+Germany,482.88,Electricity,1997
+Germany,87.75,Natural Gas,1997
+Italy,253.67,Electricity,1997
+Italy,57.98,Natural Gas,1997
+Netherlands,90.8,Electricity,1997
+Netherlands,50.85,Natural Gas,1997
+Poland,108.85,Electricity,1997
+Poland,12.86,Natural Gas,1997
+Portugal,32.44,Electricity,1997
+Portugal,0.1,Natural Gas,1997
+Romania,46.74,Electricity,1997
+Romania,20.87,Natural Gas,1997
+Spain,163.44,Electricity,1997
+Spain,13.06,Natural Gas,1997
+Sweden,132.04,Electricity,1997
+Sweden,0.86,Natural Gas,1997
+United Kingdom,321.07,Electricity,1997
+United Kingdom,90.07,Natural Gas,1997
+Norway,104.89,Electricity,1997
+Norway,4.43,Natural Gas,1997
+Turkey,81.89,Electricity,1997
+Turkey,9.79,Natural Gas,1997
+Kazakhstan,41.47,Electricity,1997
+Kazakhstan,8.69,Natural Gas,1997
+Russia,667.93,Electricity,1997
+Russia,374.42,Natural Gas,1997
+Ukraine,136.28,Electricity,1997
+Ukraine,79.08,Natural Gas,1997
+Uzbekistan,40.29,Electricity,1997
+Uzbekistan,44.27,Natural Gas,1997
+Canada,480.39,Electricity,1997
+Canada,85.84,Natural Gas,1997
+United States,3270.63,Electricity,1997
+United States,643.32,Natural Gas,1997
+Argentina,63.34,Electricity,1997
+Argentina,31.4,Natural Gas,1997
+Brazil,292.6,Electricity,1997
+Brazil,6.11,Natural Gas,1997
+Chile,29.65,Electricity,1997
+Chile,2.36,Natural Gas,1997
+Colombia,35.44,Electricity,1997
+Colombia,6.56,Natural Gas,1997
+Mexico,120.01,Electricity,1997
+Mexico,33.78,Natural Gas,1997
+Venezuela,60.09,Electricity,1997
+Venezuela,24.48,Natural Gas,1997
+China,952.64,Electricity,1997
+China,19.63,Natural Gas,1997
+India,341.13,Electricity,1997
+India,24.54,Natural Gas,1997
+Indonesia,64.46,Electricity,1997
+Indonesia,32.63,Natural Gas,1997
+Japan,917.58,Electricity,1997
+Japan,75.62,Natural Gas,1997
+Malaysia,50.99,Electricity,1997
+Malaysia,19.85,Natural Gas,1997
+South Korea,200.78,Electricity,1997
+South Korea,14.86,Natural Gas,1997
+Taiwan,131.77,Electricity,1997
+Taiwan,4.7,Natural Gas,1997
+Thailand,82.43,Electricity,1997
+Thailand,16,Natural Gas,1997
+Australia,160.35,Electricity,1997
+Australia,20.37,Natural Gas,1997
+New Zealand,33.07,Electricity,1997
+New Zealand,5.97,Natural Gas,1997
+Algeria,17.12,Electricity,1997
+Algeria,17.84,Natural Gas,1997
+Egypt,52.63,Electricity,1997
+Egypt,13.35,Natural Gas,1997
+Nigeria,8.84,Electricity,1997
+Nigeria,6.18,Natural Gas,1997
+South Africa,190.87,Electricity,1997
+South Africa,1.69,Natural Gas,1997
+Iran,79.31,Electricity,1997
+Iran,46.74,Natural Gas,1997
+Kuwait,19.92,Electricity,1997
+Kuwait,9.27,Natural Gas,1997
+Saudi Arabia,97.05,Electricity,1997
+Saudi Arabia,32.51,Natural Gas,1997
+United Arab Emirates,25.5,Electricity,1997
+United Arab Emirates,29,Natural Gas,1997
+Belgium,75.53,Electricity,1998
+Belgium,14.66,Natural Gas,1998
+Czech Rep.,52.2,Electricity,1998
+Czech Rep.,9.42,Natural Gas,1998
+France,393.31,Electricity,1998
+France,38,Natural Gas,1998
+Germany,487.48,Electricity,1998
+Germany,88.45,Natural Gas,1998
+Italy,260.81,Electricity,1998
+Italy,62.43,Natural Gas,1998
+Netherlands,94.09,Electricity,1998
+Netherlands,50.22,Natural Gas,1998
+Poland,108.66,Electricity,1998
+Poland,12.66,Natural Gas,1998
+Portugal,34.41,Electricity,1998
+Portugal,0.81,Natural Gas,1998
+Romania,44.03,Electricity,1998
+Romania,18.71,Natural Gas,1998
+Spain,169.67,Electricity,1998
+Spain,13.41,Natural Gas,1998
+Sweden,132.88,Electricity,1998
+Sweden,0.89,Natural Gas,1998
+United Kingdom,325.35,Electricity,1998
+United Kingdom,93.08,Natural Gas,1998
+Norway,110.46,Electricity,1998
+Norway,4.95,Natural Gas,1998
+Turkey,87.7,Electricity,1998
+Turkey,10.35,Natural Gas,1998
+Kazakhstan,38.46,Electricity,1998
+Kazakhstan,8.69,Natural Gas,1998
+Russia,649.72,Electricity,1998
+Russia,378.39,Natural Gas,1998
+Ukraine,129.8,Electricity,1998
+Ukraine,70.93,Natural Gas,1998
+Uzbekistan,40.14,Electricity,1998
+Uzbekistan,50.62,Natural Gas,1998
+Canada,477.61,Electricity,1998
+Canada,83,Natural Gas,1998
+United States,3373.86,Electricity,1998
+United States,630.41,Natural Gas,1998
+Argentina,68.33,Electricity,1998
+Argentina,32.6,Natural Gas,1998
+Brazil,304.71,Electricity,1998
+Brazil,6.37,Natural Gas,1998
+Chile,31.25,Electricity,1998
+Chile,3.35,Natural Gas,1998
+Colombia,34.48,Electricity,1998
+Colombia,7.62,Natural Gas,1998
+Mexico,129.43,Electricity,1998
+Mexico,38.94,Natural Gas,1998
+Venezuela,61.17,Electricity,1998
+Venezuela,25.22,Natural Gas,1998
+China,986.45,Electricity,1998
+China,20.18,Natural Gas,1998
+India,357.75,Electricity,1998
+India,25.71,Natural Gas,1998
+Indonesia,65.26,Electricity,1998
+Indonesia,35.87,Natural Gas,1998
+Japan,937.99,Electricity,1998
+Japan,77.07,Natural Gas,1998
+Malaysia,53.24,Electricity,1998
+Malaysia,19.51,Natural Gas,1998
+South Korea,193.47,Electricity,1998
+South Korea,13.9,Natural Gas,1998
+Taiwan,142.54,Electricity,1998
+Taiwan,5.84,Natural Gas,1998
+Thailand,80.43,Electricity,1998
+Thailand,17.87,Natural Gas,1998
+Australia,170.05,Electricity,1998
+Australia,21.21,Natural Gas,1998
+New Zealand,33.38,Electricity,1998
+New Zealand,5.33,Natural Gas,1998
+Algeria,18.67,Electricity,1998
+Algeria,18.35,Natural Gas,1998
+Egypt,56.53,Electricity,1998
+Egypt,13.74,Natural Gas,1998
+Nigeria,8.52,Electricity,1998
+Nigeria,6.27,Natural Gas,1998
+South Africa,185.54,Electricity,1998
+South Africa,1.42,Natural Gas,1998
+Iran,83.84,Electricity,1998
+Iran,50.82,Natural Gas,1998
+Kuwait,22.46,Electricity,1998
+Kuwait,9.49,Natural Gas,1998
+Saudi Arabia,105.61,Electricity,1998
+Saudi Arabia,34.19,Natural Gas,1998
+United Arab Emirates,30.63,Electricity,1998
+United Arab Emirates,29.92,Natural Gas,1998
+Belgium,76.05,Electricity,1999
+Belgium,15.6,Natural Gas,1999
+Czech Rep.,51.18,Electricity,1999
+Czech Rep.,9.52,Natural Gas,1999
+France,401.04,Electricity,1999
+France,38.66,Natural Gas,1999
+Germany,490.65,Electricity,1999
+Germany,89.02,Natural Gas,1999
+Italy,267.28,Electricity,1999
+Italy,67.85,Natural Gas,1999
+Netherlands,96.2,Electricity,1999
+Netherlands,49.07,Natural Gas,1999
+Poland,107.03,Electricity,1999
+Poland,12.24,Natural Gas,1999
+Portugal,36.74,Electricity,1999
+Portugal,2.25,Natural Gas,1999
+Romania,39,Electricity,1999
+Romania,17.13,Natural Gas,1999
+Spain,181.65,Electricity,1999
+Spain,15.35,Natural Gas,1999
+Sweden,132.69,Electricity,1999
+Sweden,0.88,Natural Gas,1999
+United Kingdom,332.05,Electricity,1999
+United Kingdom,99.19,Natural Gas,1999
+Norway,110.22,Electricity,1999
+Norway,5.49,Natural Gas,1999
+Turkey,91.2,Electricity,1999
+Turkey,12.54,Natural Gas,1999
+Kazakhstan,38.16,Electricity,1999
+Kazakhstan,8.62,Natural Gas,1999
+Russia,669.17,Electricity,1999
+Russia,385.76,Natural Gas,1999
+Ukraine,125.92,Electricity,1999
+Ukraine,76.94,Natural Gas,1999
+Uzbekistan,39.8,Electricity,1999
+Uzbekistan,52.01,Natural Gas,1999
+Canada,487.11,Electricity,1999
+Canada,86.93,Natural Gas,1999
+United States,3459.62,Electricity,1999
+United States,634.77,Natural Gas,1999
+Argentina,70.88,Electricity,1999
+Argentina,35.54,Natural Gas,1999
+Brazil,313.06,Electricity,1999
+Brazil,7.17,Natural Gas,1999
+Chile,35.06,Electricity,1999
+Chile,4.7,Natural Gas,1999
+Colombia,32.05,Electricity,1999
+Colombia,6.58,Natural Gas,1999
+Mexico,137.22,Electricity,1999
+Mexico,37.48,Natural Gas,1999
+Venezuela,60.35,Electricity,1999
+Venezuela,22.13,Natural Gas,1999
+China,1043.57,Electricity,1999
+China,21.49,Natural Gas,1999
+India,368.76,Electricity,1999
+India,27.77,Natural Gas,1999
+Indonesia,71.34,Electricity,1999
+Indonesia,35.19,Natural Gas,1999
+Japan,959.8,Electricity,1999
+Japan,81.57,Natural Gas,1999
+Malaysia,56,Electricity,1999
+Malaysia,22.96,Natural Gas,1999
+South Korea,214.22,Electricity,1999
+South Korea,16.96,Natural Gas,1999
+Taiwan,149.19,Electricity,1999
+Taiwan,5.73,Natural Gas,1999
+Thailand,81.45,Electricity,1999
+Thailand,19.52,Natural Gas,1999
+Australia,175.46,Electricity,1999
+Australia,21.52,Natural Gas,1999
+New Zealand,34.02,Electricity,1999
+New Zealand,5.96,Natural Gas,1999
+Algeria,19.99,Electricity,1999
+Algeria,19.54,Natural Gas,1999
+Egypt,60.81,Electricity,1999
+Egypt,17.41,Natural Gas,1999
+Nigeria,8.58,Electricity,1999
+Nigeria,6.64,Natural Gas,1999
+South Africa,182.94,Electricity,1999
+South Africa,1.86,Natural Gas,1999
+Iran,90.11,Electricity,1999
+Iran,59.07,Natural Gas,1999
+Kuwait,23.49,Electricity,1999
+Kuwait,8.69,Natural Gas,1999
+Saudi Arabia,110.61,Electricity,1999
+Saudi Arabia,34.12,Natural Gas,1999
+United Arab Emirates,35.77,Electricity,1999
+United Arab Emirates,30.92,Natural Gas,1999
+Belgium,79.17,Electricity,2000
+Belgium,15.68,Natural Gas,2000
+Czech Rep.,52.29,Electricity,2000
+Czech Rep.,9.24,Natural Gas,2000
+France,410.39,Electricity,2000
+France,41.33,Natural Gas,2000
+Germany,501.41,Electricity,2000
+Germany,87.56,Natural Gas,2000
+Italy,279.32,Electricity,2000
+Italy,70.75,Natural Gas,2000
+Netherlands,99.02,Electricity,2000
+Netherlands,49.2,Natural Gas,2000
+Poland,108.82,Electricity,2000
+Poland,13.14,Natural Gas,2000
+Portugal,38.94,Electricity,2000
+Portugal,2.28,Natural Gas,2000
+Romania,41.3,Electricity,2000
+Romania,17.12,Natural Gas,2000
+Spain,194.71,Electricity,2000
+Spain,17.58,Natural Gas,2000
+Sweden,135.41,Electricity,2000
+Sweden,0.81,Natural Gas,2000
+United Kingdom,340.3,Electricity,2000
+United Kingdom,103.05,Natural Gas,2000
+Norway,110.92,Electricity,2000
+Norway,4.11,Natural Gas,2000
+Turkey,98.3,Electricity,2000
+Turkey,14.84,Natural Gas,2000
+Kazakhstan,38.54,Electricity,2000
+Kazakhstan,7.84,Natural Gas,2000
+Russia,692.87,Electricity,2000
+Russia,391.17,Natural Gas,2000
+Ukraine,124.1,Electricity,2000
+Ukraine,74.24,Natural Gas,2000
+Uzbekistan,41.15,Electricity,2000
+Uzbekistan,51.16,Natural Gas,2000
+Canada,503.4,Electricity,2000
+Canada,91.54,Natural Gas,2000
+United States,3589.78,Electricity,2000
+United States,661.24,Natural Gas,2000
+Argentina,75.47,Electricity,2000
+Argentina,37.3,Natural Gas,2000
+Brazil,328.9,Electricity,2000
+Brazil,9.32,Natural Gas,2000
+Chile,37.14,Electricity,2000
+Chile,6.2,Natural Gas,2000
+Colombia,33.34,Electricity,2000
+Colombia,7.34,Natural Gas,2000
+Mexico,148.34,Electricity,2000
+Mexico,39.55,Natural Gas,2000
+Venezuela,63.21,Electricity,2000
+Venezuela,23.08,Natural Gas,2000
+China,1138.46,Electricity,2000
+China,24.63,Natural Gas,2000
+India,376.22,Electricity,2000
+India,27.86,Natural Gas,2000
+Indonesia,79.16,Electricity,2000
+Indonesia,31.46,Natural Gas,2000
+Japan,982.17,Electricity,2000
+Japan,84.44,Natural Gas,2000
+Malaysia,61.21,Electricity,2000
+Malaysia,27.27,Natural Gas,2000
+South Korea,263.12,Electricity,2000
+South Korea,19.01,Natural Gas,2000
+Taiwan,163.76,Electricity,2000
+Taiwan,6.26,Natural Gas,2000
+Thailand,87.93,Electricity,2000
+Thailand,22.85,Natural Gas,2000
+Australia,179.85,Electricity,2000
+Australia,22.59,Natural Gas,2000
+New Zealand,34.78,Electricity,2000
+New Zealand,6.33,Natural Gas,2000
+Algeria,21.21,Electricity,2000
+Algeria,19.59,Natural Gas,2000
+Egypt,64.33,Electricity,2000
+Egypt,17.67,Natural Gas,2000
+Nigeria,8.69,Electricity,2000
+Nigeria,7.65,Natural Gas,2000
+South Africa,190.23,Electricity,2000
+South Africa,1.71,Natural Gas,2000
+Iran,96.04,Electricity,2000
+Iran,62.24,Natural Gas,2000
+Kuwait,23.91,Electricity,2000
+Kuwait,9.6,Natural Gas,2000
+Saudi Arabia,114.16,Electricity,2000
+Saudi Arabia,37.68,Natural Gas,2000
+United Arab Emirates,37.87,Electricity,2000
+United Arab Emirates,29.88,Natural Gas,2000
+Belgium,79.82,Electricity,2001
+Belgium,15.48,Natural Gas,2001
+Czech Rep.,53.78,Electricity,2001
+Czech Rep.,9.89,Natural Gas,2001
+France,421.43,Electricity,2001
+France,46.08,Natural Gas,2001
+Germany,512.64,Electricity,2001
+Germany,91.55,Natural Gas,2001
+Italy,285.49,Electricity,2001
+Italy,70.94,Natural Gas,2001
+Netherlands,101.06,Electricity,2001
+Netherlands,50.2,Natural Gas,2001
+Poland,109.14,Electricity,2001
+Poland,13.42,Natural Gas,2001
+Portugal,40.54,Electricity,2001
+Portugal,2.54,Natural Gas,2001
+Romania,42.3,Electricity,2001
+Romania,16.56,Natural Gas,2001
+Spain,207.3,Electricity,2001
+Spain,18.94,Natural Gas,2001
+Sweden,138.51,Electricity,2001
+Sweden,0.88,Natural Gas,2001
+United Kingdom,342.51,Electricity,2001
+United Kingdom,101.31,Natural Gas,2001
+Norway,113.79,Electricity,2001
+Norway,4.57,Natural Gas,2001
+Turkey,97.07,Electricity,2001
+Turkey,15.94,Natural Gas,2001
+Kazakhstan,42.63,Electricity,2001
+Kazakhstan,6.01,Natural Gas,2001
+Russia,700.09,Electricity,2001
+Russia,395.88,Natural Gas,2001
+Ukraine,122.17,Electricity,2001
+Ukraine,74.26,Natural Gas,2001
+Uzbekistan,41.41,Electricity,2001
+Uzbekistan,51.96,Natural Gas,2001
+Canada,502.68,Electricity,2001
+Canada,87.17,Natural Gas,2001
+United States,3554.4,Electricity,2001
+United States,630.18,Natural Gas,2001
+Argentina,76.2,Electricity,2001
+Argentina,34.91,Natural Gas,2001
+Brazil,306.76,Electricity,2001
+Brazil,11.85,Natural Gas,2001
+Chile,39.93,Electricity,2001
+Chile,7.03,Natural Gas,2001
+Colombia,35.19,Electricity,2001
+Colombia,7.77,Natural Gas,2001
+Mexico,151.3,Electricity,2001
+Mexico,39.74,Natural Gas,2001
+Venezuela,65.71,Electricity,2001
+Venezuela,21.61,Natural Gas,2001
+China,1240.95,Electricity,2001
+China,28.35,Natural Gas,2001
+India,381.9,Electricity,2001
+India,28.04,Natural Gas,2001
+Indonesia,84.52,Electricity,2001
+Indonesia,33.29,Natural Gas,2001
+Japan,966.73,Electricity,2001
+Japan,84.04,Natural Gas,2001
+Malaysia,65.06,Electricity,2001
+Malaysia,28.77,Natural Gas,2001
+South Korea,281.57,Electricity,2001
+South Korea,20.88,Natural Gas,2001
+Taiwan,166.53,Electricity,2001
+Taiwan,6.92,Natural Gas,2001
+Thailand,92.29,Electricity,2001
+Thailand,26.67,Natural Gas,2001
+Australia,188.04,Electricity,2001
+Australia,23.84,Natural Gas,2001
+New Zealand,35.33,Electricity,2001
+New Zealand,6.38,Natural Gas,2001
+Algeria,22.3,Electricity,2001
+Algeria,20.14,Natural Gas,2001
+Egypt,69.17,Electricity,2001
+Egypt,23.22,Natural Gas,2001
+Nigeria,9.03,Electricity,2001
+Nigeria,7.2,Natural Gas,2001
+South Africa,181.29,Electricity,2001
+South Africa,2.22,Natural Gas,2001
+Iran,102.91,Electricity,2001
+Iran,66.14,Natural Gas,2001
+Kuwait,25.5,Electricity,2001
+Kuwait,9.5,Natural Gas,2001
+Saudi Arabia,122.94,Electricity,2001
+Saudi Arabia,39.11,Natural Gas,2001
+United Arab Emirates,38.41,Electricity,2001
+United Arab Emirates,35.66,Natural Gas,2001
+Belgium,80.44,Electricity,2002
+Belgium,15.96,Natural Gas,2002
+Czech Rep.,53.67,Electricity,2002
+Czech Rep.,9.55,Natural Gas,2002
+France,419.45,Electricity,2002
+France,45.14,Natural Gas,2002
+Germany,525.51,Electricity,2002
+Germany,90.96,Natural Gas,2002
+Italy,290.96,Electricity,2002
+Italy,70.46,Natural Gas,2002
+Netherlands,102.43,Electricity,2002
+Netherlands,49.69,Natural Gas,2002
+Poland,107.66,Electricity,2002
+Poland,13.21,Natural Gas,2002
+Portugal,42.12,Electricity,2002
+Portugal,3.11,Natural Gas,2002
+Romania,41.52,Electricity,2002
+Romania,17.08,Natural Gas,2002
+Spain,211.87,Electricity,2002
+Spain,21.66,Natural Gas,2002
+Sweden,136.66,Electricity,2002
+Sweden,0.89,Natural Gas,2002
+United Kingdom,344.11,Electricity,2002
+United Kingdom,100.05,Natural Gas,2002
+Norway,110.46,Electricity,2002
+Norway,4.52,Natural Gas,2002
+Turkey,102.95,Electricity,2002
+Turkey,17.59,Natural Gas,2002
+Kazakhstan,43.22,Electricity,2002
+Kazakhstan,8.33,Natural Gas,2002
+Russia,699.31,Electricity,2002
+Russia,396.27,Natural Gas,2002
+Ukraine,123.38,Electricity,2002
+Ukraine,73.32,Natural Gas,2002
+Uzbekistan,42.07,Electricity,2002
+Uzbekistan,54.75,Natural Gas,2002
+Canada,512.38,Electricity,2002
+Canada,91.27,Natural Gas,2002
+United States,3631.9,Electricity,2002
+United States,651.37,Natural Gas,2002
+Argentina,73.84,Electricity,2002
+Argentina,34.34,Natural Gas,2002
+Brazil,321.12,Electricity,2002
+Brazil,14.61,Natural Gas,2002
+Chile,41.36,Electricity,2002
+Chile,7.03,Natural Gas,2002
+Colombia,35.4,Electricity,2002
+Colombia,7.74,Natural Gas,2002
+Mexico,154.98,Electricity,2002
+Mexico,44.92,Natural Gas,2002
+Venezuela,67.06,Electricity,2002
+Venezuela,22.06,Natural Gas,2002
+China,1380.01,Electricity,2002
+China,29.29,Natural Gas,2002
+India,405.6,Electricity,2002
+India,30.4,Natural Gas,2002
+Indonesia,87.09,Electricity,2002
+Indonesia,35.18,Natural Gas,2002
+Japan,984.98,Electricity,2002
+Japan,86.64,Natural Gas,2002
+Malaysia,68.88,Electricity,2002
+Malaysia,28.7,Natural Gas,2002
+South Korea,300.79,Electricity,2002
+South Korea,23.32,Natural Gas,2002
+Taiwan,175.91,Electricity,2002
+Taiwan,7.9,Natural Gas,2002
+Thailand,100.17,Electricity,2002
+Thailand,28.7,Natural Gas,2002
+Australia,197.74,Electricity,2002
+Australia,26.18,Natural Gas,2002
+New Zealand,36.19,Electricity,2002
+New Zealand,6.05,Natural Gas,2002
+Algeria,23.28,Electricity,2002
+Algeria,20.88,Natural Gas,2002
+Egypt,74.12,Electricity,2002
+Egypt,26.04,Natural Gas,2002
+Nigeria,12.84,Electricity,2002
+Nigeria,7.64,Natural Gas,2002
+South Africa,193.53,Electricity,2002
+South Africa,2.2,Natural Gas,2002
+Iran,110.83,Electricity,2002
+Iran,74.48,Natural Gas,2002
+Kuwait,27.05,Electricity,2002
+Kuwait,8.71,Natural Gas,2002
+Saudi Arabia,128.63,Electricity,2002
+Saudi Arabia,45.69,Natural Gas,2002
+United Arab Emirates,40.36,Electricity,2002
+United Arab Emirates,35.59,Natural Gas,2002
+Belgium,82.07,Electricity,2003
+Belgium,17,Natural Gas,2003
+Czech Rep.,54.81,Electricity,2003
+Czech Rep.,9.66,Natural Gas,2003
+France,437,Electricity,2003
+France,46.89,Natural Gas,2003
+Germany,531.46,Electricity,2003
+Germany,89.31,Natural Gas,2003
+Italy,299.79,Electricity,2003
+Italy,77.68,Natural Gas,2003
+Netherlands,104.06,Electricity,2003
+Netherlands,50.03,Natural Gas,2003
+Poland,111.46,Electricity,2003
+Poland,14.59,Natural Gas,2003
+Portugal,43.8,Electricity,2003
+Portugal,3.02,Natural Gas,2003
+Romania,44.46,Electricity,2003
+Romania,18.43,Natural Gas,2003
+Spain,224.27,Electricity,2003
+Spain,24.55,Natural Gas,2003
+Sweden,134.62,Electricity,2003
+Sweden,0.93,Natural Gas,2003
+United Kingdom,346.62,Electricity,2003
+United Kingdom,100.52,Natural Gas,2003
+Norway,104.56,Electricity,2003
+Norway,5,Natural Gas,2003
+Turkey,111.77,Electricity,2003
+Turkey,21.18,Natural Gas,2003
+Kazakhstan,45.93,Electricity,2003
+Kazakhstan,10.17,Natural Gas,2003
+Russia,721.22,Electricity,2003
+Russia,416.89,Natural Gas,2003
+Ukraine,129.12,Electricity,2003
+Ukraine,77.62,Natural Gas,2003
+Uzbekistan,42.29,Electricity,2003
+Uzbekistan,52.04,Natural Gas,2003
+Canada,524.57,Electricity,2003
+Canada,95.37,Natural Gas,2003
+United States,3662.33,Electricity,2003
+United States,630.88,Natural Gas,2003
+Argentina,80.52,Electricity,2003
+Argentina,37.87,Natural Gas,2003
+Brazil,339.1,Electricity,2003
+Brazil,15.04,Natural Gas,2003
+Chile,44.88,Electricity,2003
+Chile,7.67,Natural Gas,2003
+Colombia,36.77,Electricity,2003
+Colombia,7.45,Natural Gas,2003
+Mexico,177.5,Electricity,2003
+Mexico,50.05,Natural Gas,2003
+Venezuela,66.28,Electricity,2003
+Venezuela,23.46,Natural Gas,2003
+China,1604.72,Electricity,2003
+China,34.96,Natural Gas,2003
+India,433.48,Electricity,2003
+India,31.23,Natural Gas,2003
+Indonesia,90.44,Electricity,2003
+Indonesia,36,Natural Gas,2003
+Japan,974.82,Electricity,2003
+Japan,89.52,Natural Gas,2003
+Malaysia,73.42,Electricity,2003
+Malaysia,30.27,Natural Gas,2003
+South Korea,318.06,Electricity,2003
+South Korea,24.3,Natural Gas,2003
+Taiwan,185.26,Electricity,2003
+Taiwan,7.96,Natural Gas,2003
+Thailand,106.96,Electricity,2003
+Thailand,30.54,Natural Gas,2003
+Australia,193.79,Electricity,2003
+Australia,26.37,Natural Gas,2003
+New Zealand,36.37,Electricity,2003
+New Zealand,4.61,Natural Gas,2003
+Algeria,25.37,Electricity,2003
+Algeria,22.97,Natural Gas,2003
+Egypt,79.64,Electricity,2003
+Egypt,28.57,Natural Gas,2003
+Nigeria,12.87,Electricity,2003
+Nigeria,10.69,Natural Gas,2003
+South Africa,195.66,Electricity,2003
+South Africa,1.32,Natural Gas,2003
+Iran,121.65,Electricity,2003
+Iran,82.1,Natural Gas,2003
+Kuwait,29.93,Electricity,2003
+Kuwait,10,Natural Gas,2003
+Saudi Arabia,142.2,Electricity,2003
+Saudi Arabia,47.13,Natural Gas,2003
+United Arab Emirates,42.58,Electricity,2003
+United Arab Emirates,36.65,Natural Gas,2003
+Belgium,83.76,Electricity,2004
+Belgium,17.32,Natural Gas,2004
+Czech Rep.,56.39,Electricity,2004
+Czech Rep.,9.6,Natural Gas,2004
+France,448.72,Electricity,2004
+France,47.5,Natural Gas,2004
+Germany,538.05,Electricity,2004
+Germany,89.67,Natural Gas,2004
+Italy,304.49,Electricity,2004
+Italy,80.61,Natural Gas,2004
+Netherlands,106.55,Electricity,2004
+Netherlands,51.22,Natural Gas,2004
+Poland,114.8,Electricity,2004
+Poland,15.39,Natural Gas,2004
+Portugal,45.5,Electricity,2004
+Portugal,3.76,Natural Gas,2004
+Romania,45.44,Electricity,2004
+Romania,17.33,Natural Gas,2004
+Spain,237.04,Electricity,2004
+Spain,28.5,Natural Gas,2004
+Sweden,135.41,Electricity,2004
+Sweden,0.89,Natural Gas,2004
+United Kingdom,347.72,Electricity,2004
+United Kingdom,102.75,Natural Gas,2004
+Norway,109.69,Electricity,2004
+Norway,5.34,Natural Gas,2004
+Turkey,121.14,Electricity,2004
+Turkey,22.44,Natural Gas,2004
+Kazakhstan,47.36,Electricity,2004
+Kazakhstan,11.6,Natural Gas,2004
+Russia,739.05,Electricity,2004
+Russia,421.83,Natural Gas,2004
+Ukraine,135.1,Electricity,2004
+Ukraine,78.57,Natural Gas,2004
+Uzbekistan,42.81,Electricity,2004
+Uzbekistan,50.52,Natural Gas,2004
+Canada,531.76,Electricity,2004
+Canada,92.75,Natural Gas,2004
+United States,3716.32,Electricity,2004
+United States,633.54,Natural Gas,2004
+Argentina,85.25,Electricity,2004
+Argentina,41.08,Natural Gas,2004
+Brazil,356.27,Electricity,2004
+Brazil,18.56,Natural Gas,2004
+Chile,47.54,Electricity,2004
+Chile,8.35,Natural Gas,2004
+Colombia,38.57,Electricity,2004
+Colombia,7.84,Natural Gas,2004
+Mexico,186.8,Electricity,2004
+Mexico,53.88,Natural Gas,2004
+Venezuela,71.57,Electricity,2004
+Venezuela,23.09,Natural Gas,2004
+China,1859.27,Electricity,2004
+China,41.36,Natural Gas,2004
+India,463.15,Electricity,2004
+India,34.02,Natural Gas,2004
+Indonesia,100.1,Electricity,2004
+Indonesia,34.44,Natural Gas,2004
+Japan,1008.93,Electricity,2004
+Japan,89.38,Natural Gas,2004
+Malaysia,77.25,Electricity,2004
+Malaysia,32.41,Natural Gas,2004
+South Korea,337.94,Electricity,2004
+South Korea,28.65,Natural Gas,2004
+Taiwan,195.13,Electricity,2004
+Taiwan,9.43,Natural Gas,2004
+Thailand,115.04,Electricity,2004
+Thailand,32.09,Natural Gas,2004
+Australia,198.27,Electricity,2004
+Australia,27.33,Natural Gas,2004
+New Zealand,37.97,Electricity,2004
+New Zealand,4.29,Natural Gas,2004
+Algeria,26.29,Electricity,2004
+Algeria,22.56,Natural Gas,2004
+Egypt,85.09,Electricity,2004
+Egypt,27.96,Natural Gas,2004
+Nigeria,16.04,Electricity,2004
+Nigeria,11.03,Natural Gas,2004
+South Africa,198.82,Electricity,2004
+South Africa,3.4,Natural Gas,2004
+Iran,131.19,Electricity,2004
+Iran,92.59,Natural Gas,2004
+Kuwait,31.09,Electricity,2004
+Kuwait,10.9,Natural Gas,2004
+Saudi Arabia,144.39,Electricity,2004
+Saudi Arabia,51.21,Natural Gas,2004
+United Arab Emirates,44.9,Electricity,2004
+United Arab Emirates,39.61,Natural Gas,2004
+Belgium,83.64,Electricity,2005
+Belgium,17.03,Natural Gas,2005
+Czech Rep.,57.66,Electricity,2005
+Czech Rep.,9.49,Natural Gas,2005
+France,451.11,Electricity,2005
+France,47.14,Natural Gas,2005
+Germany,539.33,Electricity,2005
+Germany,90.62,Natural Gas,2005
+Italy,309.85,Electricity,2005
+Italy,86.26,Natural Gas,2005
+Netherlands,108.74,Electricity,2005
+Netherlands,49.76,Natural Gas,2005
+Poland,115.66,Electricity,2005
+Poland,16.04,Natural Gas,2005
+Portugal,47.03,Electricity,2005
+Portugal,4.26,Natural Gas,2005
+Romania,46.52,Electricity,2005
+Romania,17.35,Natural Gas,2005
+Spain,248.47,Electricity,2005
+Spain,33.63,Natural Gas,2005
+Sweden,135.42,Electricity,2005
+Sweden,0.84,Natural Gas,2005
+United Kingdom,357.2,Electricity,2005
+United Kingdom,99.92,Natural Gas,2005
+Norway,114.24,Electricity,2005
+Norway,4.88,Natural Gas,2005
+Turkey,130.26,Electricity,2005
+Turkey,27.37,Natural Gas,2005
+Kazakhstan,49.04,Electricity,2005
+Kazakhstan,14.85,Natural Gas,2005
+Russia,759.86,Electricity,2005
+Russia,425.49,Natural Gas,2005
+Ukraine,137.9,Electricity,2005
+Ukraine,77.61,Natural Gas,2005
+Uzbekistan,42.13,Electricity,2005
+Uzbekistan,49,Natural Gas,2005
+Canada,533.05,Electricity,2005
+Canada,98.78,Natural Gas,2005
+United States,3811.49,Electricity,2005
+United States,623.33,Natural Gas,2005
+Argentina,90.28,Electricity,2005
+Argentina,41.4,Natural Gas,2005
+Brazil,371.31,Electricity,2005
+Brazil,19.74,Natural Gas,2005
+Chile,48.91,Electricity,2005
+Chile,8.09,Natural Gas,2005
+Colombia,38.93,Electricity,2005
+Colombia,8.23,Natural Gas,2005
+Mexico,194.56,Electricity,2005
+Mexico,53.18,Natural Gas,2005
+Venezuela,73.08,Electricity,2005
+Venezuela,23.92,Natural Gas,2005
+China,2126.43,Electricity,2005
+China,46.57,Natural Gas,2005
+India,489.43,Electricity,2005
+India,37.89,Natural Gas,2005
+Indonesia,107.71,Electricity,2005
+Indonesia,33.48,Natural Gas,2005
+Japan,1015.9,Electricity,2005
+Japan,88.95,Natural Gas,2005
+Malaysia,80.76,Electricity,2005
+Malaysia,37.75,Natural Gas,2005
+South Korea,357.63,Electricity,2005
+South Korea,30.48,Natural Gas,2005
+Taiwan,203.19,Electricity,2005
+Taiwan,9.97,Natural Gas,2005
+Thailand,121.23,Electricity,2005
+Thailand,33.16,Natural Gas,2005
+Australia,198.66,Electricity,2005
+Australia,27.23,Natural Gas,2005
+New Zealand,38.48,Electricity,2005
+New Zealand,4.13,Natural Gas,2005
+Algeria,29.52,Electricity,2005
+Algeria,24.15,Natural Gas,2005
+Egypt,92.09,Electricity,2005
+Egypt,36.71,Natural Gas,2005
+Nigeria,17.29,Electricity,2005
+Nigeria,11.04,Natural Gas,2005
+South Africa,204.04,Electricity,2005
+South Africa,3.38,Natural Gas,2005
+Iran,137.25,Electricity,2005
+Iran,99.1,Natural Gas,2005
+Kuwait,32.94,Electricity,2005
+Kuwait,12.3,Natural Gas,2005
+Saudi Arabia,153.28,Electricity,2005
+Saudi Arabia,56.28,Natural Gas,2005
+United Arab Emirates,52.53,Electricity,2005
+United Arab Emirates,42.05,Natural Gas,2005
+Belgium,86.06,Electricity,2006
+Belgium,17.53,Natural Gas,2006
+Czech Rep.,59.42,Electricity,2006
+Czech Rep.,9.28,Natural Gas,2006
+France,446.47,Electricity,2006
+France,44.21,Natural Gas,2006
+Germany,544.46,Electricity,2006
+Germany,92.62,Natural Gas,2006
+Italy,317.57,Electricity,2006
+Italy,84.48,Natural Gas,2006
+Netherlands,109.83,Electricity,2006
+Netherlands,47.8,Natural Gas,2006
+Poland,121.28,Electricity,2006
+Poland,16.01,Natural Gas,2006
+Portugal,48.55,Electricity,2006
+Portugal,4.14,Natural Gas,2006
+Romania,47.5,Electricity,2006
+Romania,17.96,Natural Gas,2006
+Spain,254.04,Electricity,2006
+Spain,36.09,Natural Gas,2006
+Sweden,135.36,Electricity,2006
+Sweden,0.86,Natural Gas,2006
+United Kingdom,353.86,Electricity,2006
+United Kingdom,94.64,Natural Gas,2006
+Norway,111.22,Electricity,2006
+Norway,5.37,Natural Gas,2006
+Turkey,143.07,Electricity,2006
+Turkey,31.18,Natural Gas,2006
+Kazakhstan,52.78,Electricity,2006
+Kazakhstan,17.86,Natural Gas,2006
+Russia,797.81,Electricity,2006
+Russia,436.49,Natural Gas,2006
+Ukraine,143.6,Electricity,2006
+Ukraine,69.48,Natural Gas,2006
+Uzbekistan,43.61,Electricity,2006
+Uzbekistan,50.09,Natural Gas,2006
+Canada,524.34,Electricity,2006
+Canada,98.01,Natural Gas,2006
+United States,3817.56,Electricity,2006
+United States,614.13,Natural Gas,2006
+Argentina,95.6,Electricity,2006
+Argentina,43.23,Natural Gas,2006
+Brazil,386.09,Electricity,2006
+Brazil,20.36,Natural Gas,2006
+Chile,51.37,Electricity,2006
+Chile,7.46,Natural Gas,2006
+Colombia,40.63,Electricity,2006
+Colombia,8.25,Natural Gas,2006
+Mexico,199.08,Electricity,2006
+Mexico,58.07,Natural Gas,2006
+Venezuela,77.52,Electricity,2006
+Venezuela,23.24,Natural Gas,2006
+China,2446.35,Electricity,2006
+China,57.3,Natural Gas,2006
+India,543.25,Electricity,2006
+India,39.69,Natural Gas,2006
+Indonesia,113.42,Electricity,2006
+Indonesia,35.56,Natural Gas,2006
+Japan,1035.78,Electricity,2006
+Japan,97.93,Natural Gas,2006
+Malaysia,84.57,Electricity,2006
+Malaysia,40.08,Natural Gas,2006
+South Korea,371.35,Electricity,2006
+South Korea,32.58,Natural Gas,2006
+Taiwan,209.98,Electricity,2006
+Taiwan,10.19,Natural Gas,2006
+Thailand,127.81,Electricity,2006
+Thailand,34.13,Natural Gas,2006
+Australia,202.52,Electricity,2006
+Australia,28.92,Natural Gas,2006
+New Zealand,39.4,Electricity,2006
+New Zealand,3.9,Natural Gas,2006
+Algeria,29.47,Electricity,2006
+Algeria,25.33,Natural Gas,2006
+Egypt,98.09,Electricity,2006
+Egypt,39.5,Natural Gas,2006
+Nigeria,15.27,Electricity,2006
+Nigeria,11.56,Natural Gas,2006
+South Africa,210.47,Electricity,2006
+South Africa,3.28,Natural Gas,2006
+Iran,148.69,Electricity,2006
+Iran,109.15,Natural Gas,2006
+Kuwait,36.14,Electricity,2006
+Kuwait,12.41,Natural Gas,2006
+Saudi Arabia,163.15,Electricity,2006
+Saudi Arabia,59.08,Natural Gas,2006
+United Arab Emirates,57.6,Electricity,2006
+United Arab Emirates,43.11,Natural Gas,2006
+Belgium,86.08,Electricity,2007
+Belgium,17.66,Natural Gas,2007
+Czech Rep.,59.75,Electricity,2007
+Czech Rep.,8.77,Natural Gas,2007
+France,448.41,Electricity,2007
+France,43.63,Natural Gas,2007
+Germany,545.44,Electricity,2007
+Germany,89.13,Natural Gas,2007
+Italy,318.95,Electricity,2007
+Italy,84.9,Natural Gas,2007
+Netherlands,112.18,Electricity,2007
+Netherlands,46.48,Natural Gas,2007
+Poland,124.74,Electricity,2007
+Poland,16.08,Natural Gas,2007
+Portugal,49.68,Electricity,2007
+Portugal,4.34,Natural Gas,2007
+Romania,47.32,Electricity,2007
+Romania,15.92,Natural Gas,2007
+Spain,257.64,Electricity,2007
+Spain,36.78,Natural Gas,2007
+Sweden,135.64,Electricity,2007
+Sweden,0.93,Natural Gas,2007
+United Kingdom,351.45,Electricity,2007
+United Kingdom,96.02,Natural Gas,2007
+Norway,114.95,Electricity,2007
+Norway,5.43,Natural Gas,2007
+Turkey,155.14,Electricity,2007
+Turkey,36.6,Natural Gas,2007
+Kazakhstan,56.31,Electricity,2007
+Kazakhstan,20.16,Natural Gas,2007
+Russia,820.7,Electricity,2007
+Russia,445.44,Natural Gas,2007
+Ukraine,148.72,Electricity,2007
+Ukraine,68.66,Natural Gas,2007
+Uzbekistan,41.92,Electricity,2007
+Uzbekistan,50.73,Natural Gas,2007
+Canada,544.21,Electricity,2007
+Canada,98.51,Natural Gas,2007
+United States,3921.94,Electricity,2007
+United States,654.18,Natural Gas,2007
+Argentina,97.62,Electricity,2007
+Argentina,46.24,Natural Gas,2007
+Brazil,406.42,Electricity,2007
+Brazil,20.96,Natural Gas,2007
+Chile,53.64,Electricity,2007
+Chile,4.44,Natural Gas,2007
+Colombia,42.24,Electricity,2007
+Colombia,8.16,Natural Gas,2007
+Mexico,208.38,Electricity,2007
+Mexico,63.2,Natural Gas,2007
+Venezuela,78.07,Electricity,2007
+Venezuela,21.59,Natural Gas,2007
+China,2816.83,Electricity,2007
+China,70.49,Natural Gas,2007
+India,588.42,Electricity,2007
+India,42.23,Natural Gas,2007
+Indonesia,121.61,Electricity,2007
+Indonesia,30.48,Natural Gas,2007
+Japan,1050.66,Electricity,2007
+Japan,107.02,Natural Gas,2007
+Malaysia,89.36,Electricity,2007
+Malaysia,41.41,Natural Gas,2007
+South Korea,392.66,Electricity,2007
+South Korea,35.01,Natural Gas,2007
+Taiwan,217.09,Electricity,2007
+Taiwan,11.14,Natural Gas,2007
+Thailand,133.18,Electricity,2007
+Thailand,36.21,Natural Gas,2007
+Australia,212.15,Electricity,2007
+Australia,32.37,Natural Gas,2007
+New Zealand,39.44,Electricity,2007
+New Zealand,4.36,Natural Gas,2007
+Algeria,31.29,Electricity,2007
+Algeria,26.28,Natural Gas,2007
+Egypt,106.6,Electricity,2007
+Egypt,43.4,Natural Gas,2007
+Nigeria,19.67,Electricity,2007
+Nigeria,11.9,Natural Gas,2007
+South Africa,219.15,Electricity,2007
+South Africa,4.22,Natural Gas,2007
+Iran,156.52,Electricity,2007
+Iran,123.22,Natural Gas,2007
+Kuwait,36.63,Electricity,2007
+Kuwait,12.06,Natural Gas,2007
+Saudi Arabia,169.78,Electricity,2007
+Saudi Arabia,60.7,Natural Gas,2007
+United Arab Emirates,65.5,Electricity,2007
+United Arab Emirates,47.75,Natural Gas,2007
+Belgium,85.82,Electricity,2008
+Belgium,17.54,Natural Gas,2008
+Czech Rep.,60.48,Electricity,2008
+Czech Rep.,8.69,Natural Gas,2008
+France,460.87,Electricity,2008
+France,45.28,Natural Gas,2008
+Germany,542.8,Electricity,2008
+Germany,92.42,Natural Gas,2008
+Italy,319.04,Electricity,2008
+Italy,84.88,Natural Gas,2008
+Netherlands,112.94,Electricity,2008
+Netherlands,48.48,Natural Gas,2008
+Poland,127.35,Electricity,2008
+Poland,16.17,Natural Gas,2008
+Portugal,49.19,Electricity,2008
+Portugal,4.72,Natural Gas,2008
+Romania,47.89,Electricity,2008
+Romania,16,Natural Gas,2008
+Spain,260.96,Electricity,2008
+Spain,40.32,Natural Gas,2008
+Sweden,133.26,Electricity,2008
+Sweden,0.8,Natural Gas,2008
+United Kingdom,350.1,Electricity,2008
+United Kingdom,99.07,Natural Gas,2008
+Norway,116.59,Electricity,2008
+Norway,5.63,Natural Gas,2008
+Turkey,161.95,Electricity,2008
+Turkey,36.65,Natural Gas,2008
+Kazakhstan,59.57,Electricity,2008
+Kazakhstan,24.66,Natural Gas,2008
+Russia,843.37,Electricity,2008
+Russia,445.7,Natural Gas,2008
+Ukraine,148.32,Electricity,2008
+Ukraine,64.82,Natural Gas,2008
+Uzbekistan,42.31,Electricity,2008
+Uzbekistan,52.6,Natural Gas,2008
+Canada,549.34,Electricity,2008
+Canada,100.28,Natural Gas,2008
+United States,3907.23,Electricity,2008
+United States,659.16,Natural Gas,2008
+Argentina,107.05,Electricity,2008
+Argentina,47.1,Natural Gas,2008
+Brazil,422.57,Electricity,2008
+Brazil,25.14,Natural Gas,2008
+Chile,54.15,Electricity,2008
+Chile,2.75,Natural Gas,2008
+Colombia,43.05,Electricity,2008
+Colombia,8.75,Natural Gas,2008
+Mexico,214.61,Electricity,2008
+Mexico,67.86,Natural Gas,2008
+Venezuela,80.17,Electricity,2008
+Venezuela,27.5,Natural Gas,2008
+China,2988.74,Electricity,2008
+China,81.2,Natural Gas,2008
+India,618.76,Electricity,2008
+India,42.61,Natural Gas,2008
+Indonesia,128.81,Electricity,2008
+Indonesia,32.61,Natural Gas,2008
+Japan,1008.42,Electricity,2008
+Japan,104.52,Natural Gas,2008
+Malaysia,92.88,Electricity,2008
+Malaysia,45.89,Natural Gas,2008
+South Korea,408.04,Electricity,2008
+South Korea,35.8,Natural Gas,2008
+Taiwan,214.35,Electricity,2008
+Taiwan,12.08,Natural Gas,2008
+Thailand,135.45,Electricity,2008
+Thailand,39.58,Natural Gas,2008
+Australia,213.01,Electricity,2008
+Australia,32.96,Natural Gas,2008
+New Zealand,38.82,Electricity,2008
+New Zealand,4.15,Natural Gas,2008
+Algeria,32.9,Electricity,2008
+Algeria,26.33,Natural Gas,2008
+Egypt,111.71,Electricity,2008
+Egypt,44.57,Natural Gas,2008
+Nigeria,18.52,Electricity,2008
+Nigeria,11.08,Natural Gas,2008
+South Africa,213.46,Electricity,2008
+South Africa,4.34,Natural Gas,2008
+Iran,166.18,Electricity,2008
+Iran,130.18,Natural Gas,2008
+Kuwait,38.72,Electricity,2008
+Kuwait,12.7,Natural Gas,2008
+Saudi Arabia,181.1,Electricity,2008
+Saudi Arabia,66.95,Natural Gas,2008
+United Arab Emirates,74.6,Electricity,2008
+United Arab Emirates,57.96,Natural Gas,2008
+Belgium,79.66,Electricity,2009
+Belgium,17.71,Natural Gas,2009
+Czech Rep.,57.11,Electricity,2009
+Czech Rep.,8.23,Natural Gas,2009
+France,447.62,Electricity,2009
+France,43.8,Natural Gas,2009
+Germany,513.67,Electricity,2009
+Germany,85.96,Natural Gas,2009
+Italy,299.92,Electricity,2009
+Italy,78.02,Natural Gas,2009
+Netherlands,109.05,Electricity,2009
+Netherlands,48.94,Natural Gas,2009
+Poland,122.3,Electricity,2009
+Poland,15.88,Natural Gas,2009
+Portugal,48.77,Electricity,2009
+Portugal,4.74,Natural Gas,2009
+Romania,42.67,Electricity,2009
+Romania,13.26,Natural Gas,2009
+Spain,247.16,Electricity,2009
+Spain,35.89,Natural Gas,2009
+Sweden,127.94,Electricity,2009
+Sweden,1.24,Natural Gas,2009
+United Kingdom,330.02,Electricity,2009
+United Kingdom,91.38,Natural Gas,2009
+Norway,113.42,Electricity,2009
+Norway,5.96,Natural Gas,2009
+Turkey,156.89,Electricity,2009
+Turkey,35.12,Natural Gas,2009
+Kazakhstan,59.22,Electricity,2009
+Kazakhstan,23.81,Natural Gas,2009
+Russia,807.94,Electricity,2009
+Russia,426.38,Natural Gas,2009
+Ukraine,134.21,Electricity,2009
+Ukraine,50.38,Natural Gas,2009
+Uzbekistan,42.78,Electricity,2009
+Uzbekistan,46.21,Natural Gas,2009
+Canada,503.42,Electricity,2009
+Canada,96.67,Natural Gas,2009
+United States,3724.66,Electricity,2009
+United States,646.65,Natural Gas,2009
+Argentina,106.38,Electricity,2009
+Argentina,46.46,Natural Gas,2009
+Brazil,420.53,Electricity,2009
+Brazil,20.12,Natural Gas,2009
+Chile,54.53,Electricity,2009
+Chile,3.25,Natural Gas,2009
+Colombia,45.09,Electricity,2009
+Colombia,10.01,Natural Gas,2009
+Mexico,211.27,Electricity,2009
+Mexico,65.99,Natural Gas,2009
+Venezuela,83.08,Electricity,2009
+Venezuela,26.04,Natural Gas,2009
+China,3222.52,Electricity,2009
+China,89.46,Natural Gas,2009
+India,669.08,Electricity,2009
+India,58.45,Natural Gas,2009
+Indonesia,136.05,Electricity,2009
+Indonesia,38.84,Natural Gas,2009
+Japan,982.79,Electricity,2009
+Japan,103.99,Natural Gas,2009
+Malaysia,102.92,Electricity,2009
+Malaysia,38.27,Natural Gas,2009
+South Korea,414.69,Electricity,2009
+South Korea,34.41,Natural Gas,2009
+Taiwan,205.5,Electricity,2009
+Taiwan,11.54,Natural Gas,2009
+Thailand,135.21,Electricity,2009
+Thailand,36.98,Natural Gas,2009
+Australia,217.36,Electricity,2009
+Australia,33.61,Natural Gas,2009
+New Zealand,38.64,Electricity,2009
+New Zealand,4.27,Natural Gas,2009
+Algeria,30.61,Electricity,2009
+Algeria,27.58,Natural Gas,2009
+Egypt,118.9,Electricity,2009
+Egypt,43.75,Natural Gas,2009
+Nigeria,18.05,Electricity,2009
+Nigeria,9.66,Natural Gas,2009
+South Africa,205.32,Electricity,2009
+South Africa,3.76,Natural Gas,2009
+Iran,174.05,Electricity,2009
+Iran,136.49,Natural Gas,2009
+Kuwait,39.99,Electricity,2009
+Kuwait,12.38,Natural Gas,2009
+Saudi Arabia,193.47,Electricity,2009
+Saudi Arabia,63.98,Natural Gas,2009
+United Arab Emirates,78.38,Electricity,2009
+United Arab Emirates,57.63,Natural Gas,2009
+Belgium,85.92,Electricity,2010
+Belgium,19.81,Natural Gas,2010
+Czech Rep.,59.26,Electricity,2010
+Czech Rep.,9.28,Natural Gas,2010
+France,471.76,Electricity,2010
+France,49.62,Natural Gas,2010
+Germany,547.28,Electricity,2010
+Germany,94.34,Natural Gas,2010
+Italy,309.88,Electricity,2010
+Italy,83.1,Natural Gas,2010
+Netherlands,112.55,Electricity,2010
+Netherlands,54.91,Natural Gas,2010
+Poland,129.42,Electricity,2010
+Poland,17.15,Natural Gas,2010
+Portugal,50.61,Electricity,2010
+Portugal,5.14,Natural Gas,2010
+Romania,45.97,Electricity,2010
+Romania,13.58,Natural Gas,2010
+Spain,250.17,Electricity,2010
+Spain,35.76,Natural Gas,2010
+Sweden,136.63,Electricity,2010
+Sweden,1.56,Natural Gas,2010
+United Kingdom,337.5,Electricity,2010
+United Kingdom,99.21,Natural Gas,2010
+Norway,120.56,Electricity,2010
+Norway,6.12,Natural Gas,2010
+Turkey,172.05,Electricity,2010
+Turkey,38.13,Natural Gas,2010
+Kazakhstan,64.61,Electricity,2010
+Kazakhstan,27.56,Natural Gas,2010
+Russia,850.66,Electricity,2010
+Russia,465.78,Natural Gas,2010
+Ukraine,148.08,Electricity,2010
+Ukraine,56.92,Natural Gas,2010
+Uzbekistan,44.28,Electricity,2010
+Uzbekistan,45.71,Natural Gas,2010
+Canada,505.95,Electricity,2010
+Canada,97.31,Natural Gas,2010
+United States,3894.37,Electricity,2010
+United States,681.71,Natural Gas,2010
+Argentina,112.76,Electricity,2010
+Argentina,46.48,Natural Gas,2010
+Brazil,459.31,Electricity,2010
+Brazil,27.16,Natural Gas,2010
+Chile,55.29,Electricity,2010
+Chile,5.3,Natural Gas,2010
+Colombia,45.86,Electricity,2010
+Colombia,10.6,Natural Gas,2010
+Mexico,221.09,Electricity,2010
+Mexico,69.59,Natural Gas,2010
+Venezuela,83.84,Electricity,2010
+Venezuela,29.18,Natural Gas,2010
+China,3625.52,Electricity,2010
+China,106.37,Natural Gas,2010
+India,727.13,Electricity,2010
+India,64.06,Natural Gas,2010
+Indonesia,147.97,Electricity,2010
+Indonesia,43.53,Natural Gas,2010
+Japan,1036.73,Electricity,2010
+Japan,110.04,Natural Gas,2010
+Malaysia,110.85,Electricity,2010
+Malaysia,37.3,Natural Gas,2010
+South Korea,458.47,Electricity,2010
+South Korea,43.31,Natural Gas,2010
+Taiwan,222.22,Electricity,2010
+Taiwan,14.64,Natural Gas,2010
+Thailand,149.32,Electricity,2010
+Thailand,42.13,Natural Gas,2010
+Australia,220.85,Electricity,2010
+Australia,34.77,Natural Gas,2010
+New Zealand,39.7,Electricity,2010
+New Zealand,4.71,Natural Gas,2010
+Algeria,36.57,Electricity,2010
+Algeria,27.38,Natural Gas,2010
+Egypt,123.72,Electricity,2010
+Egypt,43.84,Natural Gas,2010
+Nigeria,20.88,Electricity,2010
+Nigeria,10.79,Natural Gas,2010
+South Africa,213.81,Electricity,2010
+South Africa,4.74,Natural Gas,2010
+Iran,187.93,Electricity,2010
+Iran,144.42,Natural Gas,2010
+Kuwait,43.24,Electricity,2010
+Kuwait,14.51,Natural Gas,2010
+Saudi Arabia,212.26,Electricity,2010
+Saudi Arabia,73.33,Natural Gas,2010
+United Arab Emirates,84.42,Electricity,2010
+United Arab Emirates,60.8,Natural Gas,2010
+Belgium,83.89,Electricity,2011
+Belgium,17.78,Natural Gas,2011
+Czech Rep.,58.64,Electricity,2011
+Czech Rep.,8.49,Natural Gas,2011
+France,442.97,Electricity,2011
+France,44.39,Natural Gas,2011
+Germany,540.56,Electricity,2011
+Germany,85.59,Natural Gas,2011
+Italy,313.79,Electricity,2011
+Italy,77.92,Natural Gas,2011
+Netherlands,113.23,Electricity,2011
+Netherlands,47.96,Natural Gas,2011
+Poland,132.39,Electricity,2011
+Poland,16.93,Natural Gas,2011
+Portugal,49.11,Electricity,2011
+Portugal,5.18,Natural Gas,2011
+Romania,47.25,Electricity,2011
+Romania,13.89,Natural Gas,2011
+Spain,248.84,Electricity,2011
+Spain,33.25,Natural Gas,2011
+Sweden,128.96,Electricity,2011
+Sweden,1.31,Natural Gas,2011
+United Kingdom,325.87,Electricity,2011
+United Kingdom,82.62,Natural Gas,2011
+Norway,114.11,Electricity,2011
+Norway,5.81,Natural Gas,2011
+Turkey,186.1,Electricity,2011
+Turkey,44.69,Natural Gas,2011
+Kazakhstan,71.26,Electricity,2011
+Kazakhstan,26.79,Natural Gas,2011
+Russia,856.24,Electricity,2011
+Russia,476.18,Natural Gas,2011
+Ukraine,152.08,Electricity,2011
+Ukraine,58.21,Natural Gas,2011
+Uzbekistan,44.88,Electricity,2011
+Uzbekistan,51.04,Natural Gas,2011
+Canada,516.02,Electricity,2011
+Canada,105.53,Natural Gas,2011
+United States,3885.02,Electricity,2011
+United States,691.42,Natural Gas,2011
+Argentina,115.99,Electricity,2011
+Argentina,48.46,Natural Gas,2011
+Brazil,475.89,Electricity,2011
+Brazil,27.5,Natural Gas,2011
+Chile,58.49,Electricity,2011
+Chile,5.7,Natural Gas,2011
+Colombia,48.51,Electricity,2011
+Colombia,10.02,Natural Gas,2011
+Mexico,238.96,Electricity,2011
+Mexico,70.95,Natural Gas,2011
+Venezuela,87.07,Electricity,2011
+Venezuela,24.03,Natural Gas,2011
+China,4051.61,Electricity,2011
+China,131.32,Natural Gas,2011
+India,802.89,Electricity,2011
+India,64.46,Natural Gas,2011
+Indonesia,159.87,Electricity,2011
+Indonesia,41.03,Natural Gas,2011
+Japan,979.46,Electricity,2011
+Japan,127.64,Natural Gas,2011
+Malaysia,111.85,Electricity,2011
+Malaysia,37.52,Natural Gas,2011
+South Korea,480.96,Electricity,2011
+South Korea,46.69,Natural Gas,2011
+Taiwan,226.92,Electricity,2011
+Taiwan,16.02,Natural Gas,2011
+Thailand,148.7,Electricity,2011
+Thailand,39.37,Natural Gas,2011
+Australia,224.15,Electricity,2011
+Australia,35.34,Natural Gas,2011
+New Zealand,39.19,Electricity,2011
+New Zealand,4.33,Natural Gas,2011
+Algeria,41.18,Electricity,2011
+Algeria,29.11,Natural Gas,2011
+Egypt,138.09,Electricity,2011
+Egypt,47.78,Natural Gas,2011
+Nigeria,23.68,Electricity,2011
+Nigeria,15.01,Natural Gas,2011
+South Africa,218.53,Electricity,2011
+South Africa,4.71,Natural Gas,2011
+Iran,191.46,Electricity,2011
+Iran,152.78,Natural Gas,2011
+Kuwait,43.29,Electricity,2011
+Kuwait,16.99,Natural Gas,2011
+Saudi Arabia,219.66,Electricity,2011
+Saudi Arabia,74.69,Natural Gas,2011
+United Arab Emirates,85.55,Electricity,2011
+United Arab Emirates,62.88,Natural Gas,2011
+Belgium,84.42,Electricity,2012
+Belgium,17.88,Natural Gas,2012
+Czech Rep.,58.8,Electricity,2012
+Czech Rep.,8.39,Natural Gas,2012
+France,454.25,Electricity,2012
+France,44.27,Natural Gas,2012
+Germany,539.52,Electricity,2012
+Germany,85.58,Natural Gas,2012
+Italy,307.22,Electricity,2012
+Italy,74.92,Natural Gas,2012
+Netherlands,108.75,Electricity,2012
+Netherlands,45.56,Natural Gas,2012
+Poland,133.28,Electricity,2012
+Poland,18.03,Natural Gas,2012
+Portugal,47.11,Electricity,2012
+Portugal,4.49,Natural Gas,2012
+Romania,46.86,Electricity,2012
+Romania,13.53,Natural Gas,2012
+Spain,245.5,Electricity,2012
+Spain,32.4,Natural Gas,2012
+Sweden,132.12,Electricity,2012
+Sweden,1.18,Natural Gas,2012
+United Kingdom,325.17,Electricity,2012
+United Kingdom,78.64,Natural Gas,2012
+Norway,118.79,Electricity,2012
+Norway,5.61,Natural Gas,2012
+Turkey,194.92,Electricity,2012
+Turkey,45.25,Natural Gas,2012
+Kazakhstan,73.49,Electricity,2012
+Kazakhstan,25.23,Natural Gas,2012
+Russia,874.74,Electricity,2012
+Russia,471.06,Natural Gas,2012
+Ukraine,149.82,Electricity,2012
+Ukraine,53.42,Natural Gas,2012
+Uzbekistan,44.97,Electricity,2012
+Uzbekistan,52.71,Natural Gas,2012
+Canada,523.98,Electricity,2012
+Canada,105.26,Natural Gas,2012
+United States,3830.93,Electricity,2012
+United States,721.14,Natural Gas,2012
+Argentina,119.87,Electricity,2012
+Argentina,49.98,Natural Gas,2012
+Brazil,492.26,Electricity,2012
+Brazil,32.22,Natural Gas,2012
+Chile,62.92,Electricity,2012
+Chile,4.88,Natural Gas,2012
+Colombia,49.23,Electricity,2012
+Colombia,10.39,Natural Gas,2012
+Mexico,253.07,Electricity,2012
+Mexico,74.13,Natural Gas,2012
+Venezuela,89.99,Electricity,2012
+Venezuela,24.97,Natural Gas,2012
+China,4326.08,Electricity,2012
+China,147.31,Natural Gas,2012
+India,838.85,Electricity,2012
+India,57.26,Natural Gas,2012
+Indonesia,175.04,Electricity,2012
+Indonesia,40.84,Natural Gas,2012
+Japan,978.02,Electricity,2012
+Japan,132.51,Natural Gas,2012
+Malaysia,120.64,Electricity,2012
+Malaysia,38.42,Natural Gas,2012
+South Korea,492.57,Electricity,2012
+South Korea,50.58,Natural Gas,2012
+Taiwan,226.62,Electricity,2012
+Taiwan,15.18,Natural Gas,2012
+Thailand,161.75,Electricity,2012
+Thailand,44.99,Natural Gas,2012
+Australia,222.05,Electricity,2012
+Australia,36.61,Natural Gas,2012
+New Zealand,39.13,Electricity,2012
+New Zealand,4.51,Natural Gas,2012
+Algeria,46.28,Electricity,2012
+Algeria,32.94,Natural Gas,2012
+Egypt,140.26,Electricity,2012
+Egypt,47.9,Natural Gas,2012
+Nigeria,25.4,Electricity,2012
+Nigeria,15.45,Natural Gas,2012
+South Africa,211.95,Electricity,2012
+South Africa,4.94,Natural Gas,2012
+Iran,201.56,Electricity,2012
+Iran,151.78,Natural Gas,2012
+Kuwait,46.38,Electricity,2012
+Kuwait,18.17,Natural Gas,2012
+Saudi Arabia,241.07,Electricity,2012
+Saudi Arabia,81.09,Natural Gas,2012
+United Arab Emirates,88.25,Electricity,2012
+United Arab Emirates,66.05,Natural Gas,2012
+Belgium,83.15,Electricity,2013
+Belgium,18.02,Natural Gas,2013
+Czech Rep.,58.66,Electricity,2013
+Czech Rep.,8.44,Natural Gas,2013
+France,457.08,Electricity,2013
+France,46.21,Natural Gas,2013
+Germany,537.33,Electricity,2013
+Germany,87.53,Natural Gas,2013
+Italy,297.29,Electricity,2013
+Italy,70.07,Natural Gas,2013
+Netherlands,110.03,Electricity,2013
+Netherlands,46.07,Natural Gas,2013
+Poland,134.48,Electricity,2013
+Poland,18.02,Natural Gas,2013
+Portugal,46.27,Electricity,2013
+Portugal,4.26,Natural Gas,2013
+Romania,44.95,Electricity,2013
+Romania,12.57,Natural Gas,2013
+Spain,235.18,Electricity,2013
+Spain,29.63,Natural Gas,2013
+Sweden,129.34,Electricity,2013
+Sweden,1.07,Natural Gas,2013
+United Kingdom,325.09,Electricity,2013
+United Kingdom,77.68,Natural Gas,2013
+Norway,119.53,Electricity,2013
+Norway,5.62,Natural Gas,2013
+Turkey,198.05,Electricity,2013
+Turkey,45.91,Natural Gas,2013
+Kazakhstan,71.02,Electricity,2013
+Kazakhstan,26.65,Natural Gas,2013
+Russia,871.74,Electricity,2013
+Russia,483.29,Natural Gas,2013
+Ukraine,147.51,Electricity,2013
+Ukraine,49.46,Natural Gas,2013
+Uzbekistan,46.43,Electricity,2013
+Uzbekistan,46.13,Natural Gas,2013
+Canada,527.04,Electricity,2013
+Canada,112.23,Natural Gas,2013
+United States,3873.14,Electricity,2013
+United States,737.33,Natural Gas,2013
+Argentina,120.94,Electricity,2013
+Argentina,50.08,Natural Gas,2013
+Brazil,508.51,Electricity,2013
+Brazil,37.74,Natural Gas,2013
+Chile,66.04,Electricity,2013
+Chile,4.95,Natural Gas,2013
+Colombia,49.43,Electricity,2013
+Colombia,11.23,Natural Gas,2013
+Mexico,246.5,Electricity,2013
+Mexico,70.19,Natural Gas,2013
+Venezuela,99.04,Electricity,2013
+Venezuela,24.35,Natural Gas,2013
+China,4717.57,Electricity,2013
+China,167.29,Natural Gas,2013
+India,897.23,Electricity,2013
+India,51.95,Natural Gas,2013
+Indonesia,187.54,Electricity,2013
+Indonesia,45.19,Natural Gas,2013
+Japan,983.35,Electricity,2013
+Japan,130.77,Natural Gas,2013
+Malaysia,127.36,Electricity,2013
+Malaysia,45.21,Natural Gas,2013
+South Korea,498.16,Electricity,2013
+South Korea,52.56,Natural Gas,2013
+Taiwan,230.46,Electricity,2013
+Taiwan,15.53,Natural Gas,2013
+Thailand,164.32,Electricity,2013
+Thailand,48.38,Natural Gas,2013
+Australia,222.17,Electricity,2013
+Australia,37.7,Natural Gas,2013
+New Zealand,38.84,Electricity,2013
+New Zealand,4.77,Natural Gas,2013
+Algeria,48.78,Electricity,2013
+Algeria,33.62,Natural Gas,2013
+Egypt,143.43,Electricity,2013
+Egypt,48.91,Natural Gas,2013
+Nigeria,23.69,Electricity,2013
+Nigeria,15.16,Natural Gas,2013
+South Africa,211.61,Electricity,2013
+South Africa,5.01,Natural Gas,2013
+Iran,207.22,Electricity,2013
+Iran,152.89,Natural Gas,2013
+Kuwait,46.19,Electricity,2013
+Kuwait,18.49,Natural Gas,2013
+Saudi Arabia,257.44,Electricity,2013
+Saudi Arabia,81.95,Natural Gas,2013
+United Arab Emirates,91.57,Electricity,2013
+United Arab Emirates,67.33,Natural Gas,2013
+Belgium,81.99,Electricity,2014
+Belgium,15.79,Natural Gas,2014
+Czech Rep.,58.4,Electricity,2014
+Czech Rep.,7.53,Natural Gas,2014
+France,431.62,Electricity,2014
+France,37.28,Natural Gas,2014
+Germany,525.9,Electricity,2014
+Germany,79.05,Natural Gas,2014
+Italy,291.09,Electricity,2014
+Italy,61.91,Natural Gas,2014
+Netherlands,107.22,Electricity,2014
+Netherlands,40.26,Natural Gas,2014
+Poland,136.31,Electricity,2014
+Poland,17.52,Natural Gas,2014
+Portugal,46.14,Electricity,2014
+Portugal,4.08,Natural Gas,2014
+Romania,45.81,Electricity,2014
+Romania,11.97,Natural Gas,2014
+Spain,233.31,Electricity,2014
+Spain,27.23,Natural Gas,2014
+Sweden,126.85,Electricity,2014
+Sweden,0.93,Natural Gas,2014
+United Kingdom,311.03,Electricity,2014
+United Kingdom,70.84,Natural Gas,2014
+Norway,116.42,Electricity,2014
+Norway,6.06,Natural Gas,2014
+Turkey,207.38,Electricity,2014
+Turkey,48.72,Natural Gas,2014
+Kazakhstan,74.86,Electricity,2014
+Kazakhstan,27.96,Natural Gas,2014
+Russia,877.12,Electricity,2014
+Russia,454.41,Natural Gas,2014
+Ukraine,133.86,Electricity,2014
+Ukraine,41.09,Natural Gas,2014
+Uzbekistan,47.45,Electricity,2014
+Uzbekistan,47.04,Natural Gas,2014
+Canada,518.77,Electricity,2014
+Canada,116.58,Natural Gas,2014
+United States,3894.06,Electricity,2014
+United States,752.7,Natural Gas,2014
+Argentina,126.76,Electricity,2014
+Argentina,51.64,Natural Gas,2014
+Brazil,522.39,Electricity,2014
+Brazil,41.29,Natural Gas,2014
+Chile,67.15,Electricity,2014
+Chile,4.14,Natural Gas,2014
+Colombia,51.27,Electricity,2014
+Colombia,11.23,Natural Gas,2014
+Mexico,256.78,Electricity,2014
+Mexico,71.51,Natural Gas,2014
+Venezuela,79.58,Electricity,2014
+Venezuela,23.42,Natural Gas,2014
+China,4938.62,Electricity,2014
+China,185.26,Natural Gas,2014
+India,954.35,Electricity,2014
+India,50.43,Natural Gas,2014
+Indonesia,198.6,Electricity,2014
+Indonesia,46.07,Natural Gas,2014
+Japan,965.95,Electricity,2014
+Japan,131.42,Natural Gas,2014
+Malaysia,132.64,Electricity,2014
+Malaysia,45.47,Natural Gas,2014
+South Korea,499.05,Electricity,2014
+South Korea,47.4,Natural Gas,2014
+Taiwan,235.79,Electricity,2014
+Taiwan,16.3,Natural Gas,2014
+Thailand,168.79,Electricity,2014
+Thailand,48.36,Natural Gas,2014
+Australia,221.54,Electricity,2014
+Australia,38.52,Natural Gas,2014
+New Zealand,39.23,Electricity,2014
+New Zealand,5.39,Natural Gas,2014
+Algeria,53.05,Electricity,2014
+Algeria,37.77,Natural Gas,2014
+Egypt,146.56,Electricity,2014
+Egypt,49.99,Natural Gas,2014
+Nigeria,24.63,Electricity,2014
+Nigeria,16.45,Natural Gas,2014
+South Africa,210.51,Electricity,2014
+South Africa,4.71,Natural Gas,2014
+Iran,223.96,Electricity,2014
+Iran,172.5,Natural Gas,2014
+Kuwait,49.96,Electricity,2014
+Kuwait,18.49,Natural Gas,2014
+Saudi Arabia,283.1,Electricity,2014
+Saudi Arabia,85.13,Natural Gas,2014
+United Arab Emirates,95.1,Electricity,2014
+United Arab Emirates,66.1,Natural Gas,2014
+Belgium,82.81,Electricity,2015
+Belgium,17.3,Natural Gas,2015
+Czech Rep.,59.72,Electricity,2015
+Czech Rep.,7.87,Natural Gas,2015
+France,440.18,Electricity,2015
+France,40.08,Natural Gas,2015
+Germany,533.09,Electricity,2015
+Germany,83.19,Natural Gas,2015
+Italy,298.8,Electricity,2015
+Italy,67.52,Natural Gas,2015
+Netherlands,108.28,Electricity,2015
+Netherlands,40.4,Natural Gas,2015
+Poland,138.47,Electricity,2015
+Poland,18.23,Natural Gas,2015
+Portugal,46.43,Electricity,2015
+Portugal,4.75,Natural Gas,2015
+Romania,49.27,Electricity,2015
+Romania,11.44,Natural Gas,2015
+Spain,237.74,Electricity,2015
+Spain,28.3,Natural Gas,2015
+Sweden,127.36,Electricity,2015
+Sweden,0.9,Natural Gas,2015
+United Kingdom,310.76,Electricity,2015
+United Kingdom,72.42,Natural Gas,2015
+Norway,118.62,Electricity,2015
+Norway,6.21,Natural Gas,2015
+Turkey,217.3,Electricity,2015
+Turkey,48.03,Natural Gas,2015
+Kazakhstan,74.19,Electricity,2015
+Kazakhstan,29.8,Natural Gas,2015
+Russia,872.16,Electricity,2015
+Russia,430.78,Natural Gas,2015
+Ukraine,128.48,Electricity,2015
+Ukraine,32.63,Natural Gas,2015
+Uzbekistan,49.11,Electricity,2015
+Uzbekistan,48.51,Natural Gas,2015
+Canada,516.2,Electricity,2015
+Canada,113.97,Natural Gas,2015
+United States,3898.45,Electricity,2015
+United States,775.05,Natural Gas,2015
+Argentina,130.14,Electricity,2015
+Argentina,52.79,Natural Gas,2015
+Brazil,512.85,Electricity,2015
+Brazil,40.88,Natural Gas,2015
+Chile,68.9,Electricity,2015
+Chile,4.34,Natural Gas,2015
+Colombia,52.16,Electricity,2015
+Colombia,10.67,Natural Gas,2015
+Mexico,261.24,Electricity,2015
+Mexico,70.04,Natural Gas,2015
+Venezuela,92.07,Electricity,2015
+Venezuela,27.06,Natural Gas,2015
+China,4963.32,Electricity,2015
+China,187.61,Natural Gas,2015
+India,1006.9,Electricity,2015
+India,50,Natural Gas,2015
+Indonesia,202.85,Electricity,2015
+Indonesia,47.47,Natural Gas,2015
+Japan,940.37,Electricity,2015
+Japan,126.54,Natural Gas,2015
+Malaysia,135.79,Electricity,2015
+Malaysia,40.3,Natural Gas,2015
+South Korea,505.12,Electricity,2015
+South Korea,43.27,Natural Gas,2015
+Taiwan,234.59,Electricity,2015
+Taiwan,17.66,Natural Gas,2015
+Thailand,174.94,Electricity,2015
+Thailand,49.33,Natural Gas,2015
+Australia,225.07,Electricity,2015
+Australia,39.01,Natural Gas,2015
+New Zealand,39.92,Electricity,2015
+New Zealand,5.05,Natural Gas,2015
+Algeria,57.57,Electricity,2015
+Algeria,40.29,Natural Gas,2015
+Egypt,146.24,Electricity,2015
+Egypt,49.57,Natural Gas,2015
+Nigeria,26.84,Electricity,2015
+Nigeria,17.15,Natural Gas,2015
+South Africa,207.43,Electricity,2015
+South Africa,4.86,Natural Gas,2015
+Iran,235.76,Electricity,2015
+Iran,182.67,Natural Gas,2015
+Kuwait,50.52,Electricity,2015
+Kuwait,20.84,Natural Gas,2015
+Saudi Arabia,294.47,Electricity,2015
+Saudi Arabia,86.89,Natural Gas,2015
+United Arab Emirates,100.8,Electricity,2015
+United Arab Emirates,71.83,Natural Gas,2015
