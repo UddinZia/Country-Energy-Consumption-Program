@@ -8,11 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # NOTE: the program will take about 10-15 seconds to load all the graphs
-# you might get some warnings in the console but the program should work just fine
-# We went off the basis that each country and each year will have their own graph
-# as we were told by our TA (Preston), so therefore there's going to be ALOT of them
-# all the plt.savefig() commands were commented out since the program would not run for you 
-# since the directories and folders exist on my pc. 
+# all the plt.savefig() commands were commented out since the program will not run 
 
 # opening all files needed for graphs
 content = open('EnergyConsumers.txt','r')
